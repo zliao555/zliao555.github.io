@@ -5,3 +5,5 @@
 layout: home
 ---
 heheheheheheheh
+
+[test google](https://www.google.com)
