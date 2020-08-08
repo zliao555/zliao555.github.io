@@ -4,6 +4,6 @@
 
 layout: home
 ---
-heheheheheheheh
+飞跃手册
 
 [test google](https://www.google.com)
