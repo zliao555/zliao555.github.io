@@ -5,8 +5,6 @@ permalink: /my-site/ucb
 ---
 # University of California, Berkeley 
 
----
-
 加州大学伯克利分校除了EE有PE的教授以外，
 
 还有energy & resources group, 主要研究power system，energy storage, energy policy等等
@@ -50,7 +48,7 @@ Power Electronics Group]。
 
 ---
 
-Alexandra von Meier[https://www2.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html]
+[Alexandra von Meie](https://www2.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html)
 
 Adjunct Professor. EE的客座教授，主要研究方向是power system，比如PMU数据的应用等
 
