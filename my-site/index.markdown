@@ -6,6 +6,6 @@ layout: home
 ---
 # Heading 1 飞跃手册
 
-## Heading 2**USA**
-[MIT](https://www.google.com)
-[Stanford])(https://www.google.com)
+* **USA**
+ 1. [MIT](https://www.google.com)
+ 2. [Stanford])(https://www.google.com)
