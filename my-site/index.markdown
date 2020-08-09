@@ -119,7 +119,7 @@ layout: home
   * Concordia University (Concordia)
   * Memorial University of Newfoundland (MUN) 
   * Ryerson University (Ryerson) 
-* **Europo**
+* **Europe**
   * Aalborg University (alborg University)
   * ETH Zurich (ETH)
 * 附录 
