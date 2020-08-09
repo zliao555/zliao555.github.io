@@ -122,7 +122,11 @@ layout: home
   * Concordia University (Concordia)
   * Memorial University of Newfoundland (MUN) 
   * Ryerson University (Ryerson) 
-  
+  * University of New Brunswick (Brunswick)
+  * University of Windsor (Windsor)
+  * Lakehead University (Lakehead)
+  * Ontario Tech University (OntarioTech)
+ 
   ---
   
 * **Europe**
