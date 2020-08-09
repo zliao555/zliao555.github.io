@@ -102,7 +102,7 @@ layout: home
   * Montana State University (MSU)
   * Northern Illinois University (NIU) 
   * University of Texas, San Antonio (UTSA) 
- * **Canada** 
+* **Canada** 
   * University of Toronto (UofT) 
   * McGill University (McGill)
   * University of British Columbia (UBC) 
