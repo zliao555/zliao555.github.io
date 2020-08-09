@@ -101,7 +101,10 @@ layout: home
   * Southern Illinois University, Carbondale (SIUC) 
   * Montana State University (MSU)
   * Northern Illinois University (NIU) 
-  * University of Texas, San Antonio (UTSA) 
+  * University of Texas, San Antonio (UTSA)
+  
+  ---
+  
 * **Canada** 
   * University of Toronto (UofT) 
   * McGill University (McGill)
@@ -119,11 +122,42 @@ layout: home
   * Concordia University (Concordia)
   * Memorial University of Newfoundland (MUN) 
   * Ryerson University (Ryerson) 
+  
+  ---
+  
 * **Europe**
-  * Aalborg University (alborg University)
+  * Aalborg University (AAU)
   * ETH Zurich (ETH)
-* 附录 
-* PE领域美国工程院院士 
-* 历年William E. Newell Power Electronics Award得主列表 
-* 历年R. David Middlebrook Award得主列表 
-* 历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表 
+  * Technical University of Denmark (DTU)
+  
+  ---
+  
+* **UK**  
+  * University of Cambridge (UCAM)
+  * Imperial College London (ICL)
+  * University of Edinburgh (UED)
+  * University of Bristol
+  * University of Nottingham
+  * University of Glasgow
+  * University of Sheffield
+  
+  ---
+  
+* **Hong Kong**
+  * Hong Kong University (HKU)
+  * City University of Hong Kong (CUHK)
+  * Hong Kong Polytechnic University (HKPU)
+  
+  ---
+  
+* **Australia**
+  * University of Sydney (USYD)
+  * University of Technology Sydney (UTSY)
+  
+  ---
+  
+* **附录** 
+  * PE领域美国工程院院士 
+  * 历年William E. Newell Power Electronics Award得主列表 
+  * 历年R. David Middlebrook Award得主列表 
+  * 历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表 
