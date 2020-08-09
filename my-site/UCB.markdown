@@ -48,7 +48,7 @@ Power Electronics Group]。
 
 ---
 
-[Alexandra von Meie](https://www2.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html)
+[Alexandra von Meier](https://www2.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html)
 
 Adjunct Professor. EE的客座教授，主要研究方向是power system，比如PMU数据的应用等
 
