@@ -8,4 +8,4 @@ layout: home
 
 * **USA**
  1. [MIT](https://www.google.com)
- 2. [Stanford])(https://www.google.com)
+ 2. [Stanford](https://www.google.com)
