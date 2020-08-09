@@ -133,7 +133,7 @@ layout: home
   ---
   
 * **UK**  
-  * University of Cambridge (UCAM)(https://zliao555.github.io/my-site/ucam)
+  * University of Cambridge (UCAM)
   * Imperial College London (ICL)
   * University of Edinburgh (UED)
   * University of Bristol
