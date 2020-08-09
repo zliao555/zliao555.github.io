@@ -1,1 +1,5 @@
-layout: page title: University of Cambridge (UCAM).markdown permalink: /my-site/UCAM
+---
+layout: page
+title: University of Cambridge, UK
+permalink: /my-site/ucam
+---
