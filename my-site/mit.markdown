@@ -10,13 +10,21 @@ permalink: /my-site/mit
 系里和 Energy有关的 Faculty名单：
 [Faculty of Energy](http://www.eecs.mit.edu/people/faculty-advisors/12)
 
+---
+
 [James L. Kirtley](http://web.mit.edu/kirtley/www/)
+
 美国工程院院士， IEEE Life Fellow 1971年 PhD@MIT，曾在
 GE GM等公司担任首席科学家等职务，是电机方面的大牛。
 
+---
+
 [Steven Leeb](http://meche.mit.edu/people/faculty/SBLEEB@MIT.EDU)
+
 IEEE Fellow 1993年 PhD@MIT Kirtley的学生 1999年 Bass奖
 得主。 研究领域主要为电机控制及驱动 微网等 。
+
+---
 
 [David J. Perreault](https://www.rle.mit.edu/people/directory/david-perreault/)
 
@@ -28,5 +36,7 @@ Kickstarter上很火的全世界最小的笔记本适配器产品也是他学生
 [Power Electronics Research Group](https://www.rle.mit.edu/per/home/)
 
 [Luca Daniel](http://www.mit.edu/~dluca/)
+
+---
 
 2001年 PhD@UCB Sanders的学生，曾经 的 PELS Award for Best Journal Paper得主 但是现在已经转行 不研究 PE了。
