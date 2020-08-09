@@ -11,8 +11,8 @@ layout: home
 * 更新记录
 
 * **USA**
- * [MIT](https://zliao555.github.io/my-site/mit)
- * Stanford University (Stanford)
+ *[MIT](https://zliao555.github.io/my-site/mit)
+ *Stanford University (Stanford)
  * Princeton University (Princeton) 
  * University of California, Berkeley (UCB) 
  * Cornell University (Cornell) 
