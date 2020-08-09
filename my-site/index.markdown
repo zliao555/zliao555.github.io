@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Heading 1 飞跃手册
+# 飞跃手册
 
 * **USA**
  1. [MIT](https://www.google.com)
