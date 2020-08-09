@@ -35,8 +35,8 @@ Kickstarter上很火的全世界最小的笔记本适配器产品也是他学生
 验室： 
 [Power Electronics Research Group](https://www.rle.mit.edu/per/home/)
 
-[Luca Daniel](http://www.mit.edu/~dluca/)
-
 ---
+
+[Luca Daniel](http://www.mit.edu/~dluca/)
 
 2001年 PhD@UCB Sanders的学生，曾经 的 PELS Award for Best Journal Paper得主 但是现在已经转行 不研究 PE了。
