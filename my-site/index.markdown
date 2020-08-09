@@ -119,8 +119,11 @@ layout: home
   * Concordia University (Concordia)
   * Memorial University of Newfoundland (MUN) 
   * Ryerson University (Ryerson) 
+* **Europo**
+  * Aalborg University (alborg University)
+  * ETH Zurich (ETH)
 * 附录 
 * PE领域美国工程院院士 
 * 历年William E. Newell Power Electronics Award得主列表 
 * 历年R. David Middlebrook Award得主列表 
-*历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表 
+* 历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表 
