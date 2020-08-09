@@ -7,5 +7,4 @@ layout: home
 # 飞跃手册
 
 * **USA**
- 1. [MIT](https://www.google.com)
- 2. [Stanford](https://www.google.com)
+ 1. [MIT](https://zliao555.github.io/my-site/mit)
