@@ -9,7 +9,7 @@ permalink: /my-site/SDSU
 
 ---
 
-[Chris MI](https://chrismi.sdsu.edu/)
+[Chris Mi](https://chrismi.sdsu.edu/)
 
 IEEE Fellow，2000年PhD@UofT，西北工业大学校友，曾在Umich-Dearborn担任教职，2015年加入SDSU并担任Department Chair，是电动汽车领域的大牛。
 
