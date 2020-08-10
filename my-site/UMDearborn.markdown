@@ -5,8 +5,9 @@ permalink: /my-site/UMDearborn
 ---
 # University of Michigan, Dearborn (UM-Dearborn)
 
-离Ford总部很近，有地缘优势，但是Chris Mi跳槽去了加州，实力大损。
 ---
+
+离Ford总部很近，有地缘优势，但是Chris Mi跳槽去了加州，实力大损。
 
 [Taehyung Kim](https://umdearborn.edu/users/taehyung)
 
