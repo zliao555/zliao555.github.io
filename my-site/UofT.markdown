@@ -1,5 +1,5 @@
 layout: page
-title: University of Toronto, Canada
-permalink: /my-site/UofT-Canada
+title: University of Toronto (UofT)
+permalink: /my-site/UofT
 
 # University of Toronto
