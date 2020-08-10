@@ -47,7 +47,6 @@ layout: home
   * [University of Nebraska, Lincoln (UNL)](https://zliao555.github.io/my-site/nebraska) 
   * [University of South Carolina (USC)](https://zliao555.github.io/my-site/USC)
   * [University of Georgia (UGA)](https://zliao555.github.io/my-site/UGA)
-  * North Dakota State University (NDSU) 
   * [University of Dayton (UD)](https://zliao555.github.io/my-site/dayton)
   * [San Diego State University (SDSU)](https://zliao555.github.io/my-site/SDSU)
   * [University of North Carolina, Charlotte (UNCC)](https://zliao555.github.io/my-site/UNCC) 
