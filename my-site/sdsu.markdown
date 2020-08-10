@@ -1,7 +1,7 @@
 ---
 layout: page
 title: South Dakota State University (SDSU)
-permalink: /my-site/SDSU
+permalink: /my-site/SDASU
 ---
 # South Dakota State University
 [Steve Hietpas](https://www.sdstate.edu/directory/steve-hietpas)
