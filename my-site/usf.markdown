@@ -1,6 +1,6 @@
 ---
 layout: page
-title:University of South Florida(USF)
+title: Massachusetts Institute of Technology (MIT)
 permalink: /my-site/usf
 ---
-# University of South Florida
+# Massachusetts Institute of Technology
