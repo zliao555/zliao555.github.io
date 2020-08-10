@@ -8,12 +8,14 @@
 建立成mit.markdown
 然后page的开头都是例如
 
+```
 ---
 layout: page
 title: Massachusetts Institute of Technology (MIT)
 permalink: /my-site/mit
 ---
 # Massachusetts Institute of Technology
+```
 
 需要大家更改的就是permalink. 改成学校相应的缩写就行。比如/mit，uiuc, ucb等
 
