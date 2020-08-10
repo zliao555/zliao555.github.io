@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clarkson University (Clarkson)
-permalink: /my-site/mit
+permalink: /my-site/clarkson
 ---
 # Clarkson University (Clarkson)
 
