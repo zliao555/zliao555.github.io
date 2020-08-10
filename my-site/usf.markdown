@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Massachusetts Institute of Technology (MIT)
-permalink: /my-site/mit
+title:University of South Florida(USF)
+permalink: /my-site/usf
 ---
-# Massachusetts Institute of Technology
+# University of South Florida
