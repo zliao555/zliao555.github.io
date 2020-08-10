@@ -18,24 +18,18 @@ permalink: /my-site/UNCC
 
 ---
 
-[Steven Leeb](http://meche.mit.edu/people/faculty/SBLEEB@MIT.EDU)
+[Babak Parkhideh](https://coefs.uncc.edu/bparkhid/)
 
-IEEE Fellow 1993年 PhD@MIT Kirtley的学生 1999年 Bass奖
-得主。 研究领域主要为电机控制及驱动 微网等 。
-
----
-
-[David J. Perreault](https://www.rle.mit.edu/people/directory/david-perreault/)
-
-IEEE Fellow 1997年 PhD@MIT Kassakian的学生 2015年 Middlebrook奖得主 2001年 Bass奖得主 。 
-主要研究超高频电力电子。是该领域的先驱和旗舰级人物, 做的东西属于行业标杆。当老师时间不长，但其学生
-已有不少进入著名高校当老师。如Stanford, UIUC, Princeton等。前两年在
-Kickstarter上很火的全世界最小的笔记本适配器产品也是他学生弄的。其名下实
-验室： 
-[Power Electronics Research Group](https://www.rle.mit.edu/per/home/)
+大AP，伊朗人，2012年PhD@NCSU，Bhattacharya的学生。研究领域主要为光伏、微网、电磁元件等。
 
 ---
 
-[Luca Daniel](http://www.mit.edu/~dluca/)
+[Robert Cox](https://ece.uncc.edu/directory/dr-robert-cox-phd)
 
-2001年 PhD@UCB Sanders的学生，曾经 的 PELS Award for Best Journal Paper得主 但是现在已经转行 不研究 PE了。
+大AP，2006年PhD@MIT，Leeb的学生。研究领域主要为电机控制，电网等。
+
+---
+
+[Maciej Noras](https://et.uncc.edu/directory/maciej-noras-phd)
+
+大AP，2000年PhD@SIU，曾在Trek工作7年，于2007年加入UNCC，做的东西似乎偏系统监控、检测等，但研究兴趣也写了Power electronics。文章不多，且其中大多是一作。
