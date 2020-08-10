@@ -9,7 +9,7 @@ permalink: /my-site/UCSD
 
 [Hanh-phuc Le](https://profiles.ucsd.edu/hanh-phuc.le)
 
-小AP，越南人，2013年PhD@UCB，Sanders的学生，曾在CU任教，于2019年加入UCSD，研究领域主要为功率IC。其名下实验室：[integrated Power Electronics and Energy-Efficient Systems (iPower3Es)](https://www.colorado.edu/lab/ipower3es/)。
+小AP，越南人，2013年PhD@UCB，Sanders的学生，曾在CU任教，于2019年加入UCSD，研究领域主要为功率IC。其名下实验室：[integrated Power Electronics and Energy-Efficient Systems (iPower3Es)](http://ipower3es.ucsd.edu/)。
 
 ---
 
