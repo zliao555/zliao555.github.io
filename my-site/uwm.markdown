@@ -13,5 +13,4 @@ permalink: /my-site/wvu
 
 [Robert Cuzner](https://uwm.edu/engineering/people/cuzner-ph-d-robert/)
 
-大 AP，2013 年 PhD@UW，Venkataramanan 的学生，研究领域
-主要为微网，分布式系统等。
+大 AP，2013 年 PhD@UW，Venkataramanan 的学生，研究领域主要为微网，分布式系统等。
