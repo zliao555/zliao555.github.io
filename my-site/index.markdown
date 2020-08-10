@@ -96,7 +96,7 @@ layout: home
   * [West Virginia University (WVU)](https://zliao555.github.io/my-site/wvu) 
   * [University of Wisconsin, Milwaukee (UWM)](https://zliao555.github.io/my-site/uwmil)
   * [University of North Dakota (UND)](https://zliao555.github.io/my-site/und)
-  * [South Dakota State University (SDSU)](https://zliao555.github.io/my-site/SDSU) 
+  * [South Dakota State University (SDSU)](https://zliao555.github.io/my-site/SDASU) 
   * [University of Nevada, Reno (UNR)](https://zliao555.github.io/my-site/unr)
   * [Florida International University (FIU)](https://zliao555.github.io/my-site/fiu)
   * [Southern Illinois University, Carbondale (SIUC)](https://zliao555.github.io/my-site/siuc)
