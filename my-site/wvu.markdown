@@ -6,6 +6,7 @@ permalink: /my-site/wvu
 # West Virginia University
 在 Power 方面拥有悠久传统，PS 和 PE 都有一定规模，有一个 Power 的研究中心 APERC：
 [Advanced Power & Electricity Research Center (APERC)](https://aperc.wvu.edu/)
+
 [Ali Feliachi](https://www.statler.wvu.edu/faculty-staff/faculty/ali-feliachi)
 
 阿尔及利亚人，1983 年 PhD@Gatech，现任 APERC 的 Director，
