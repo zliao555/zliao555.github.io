@@ -137,9 +137,9 @@ layout: home
   ---
   
 * **UK**  
-  * [University of Cambridge] (UCAM)(https://zliao555.github.io/my-site/ucam-uk)
-  * [Imperial College London] (ICL)(https://zliao555.github.io/my-site/icl-uk)
-  * [University of Edinburgh] (UED)(https://zliao555.github.io/my-site/edinburgh-uk)
+  * [University of Cambridge(CAM)](https://zliao555.github.io/my-site/ucam-uk)
+  * [Imperial College London(ICL)](https://zliao555.github.io/my-site/icl-uk)
+  * [University of Edinburgh](https://zliao555.github.io/my-site/edinburgh-uk)
   * [University of Bristol](https://zliao555.github.io/my-site/bristol-uk)
   * [University of Nottingham](https://zliao555.github.io/my-site/nott-uk)
   * [University of Glasgow](https://zliao555.github.io/my-site/glasgow-uk)
