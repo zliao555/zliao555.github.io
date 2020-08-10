@@ -5,6 +5,7 @@ permalink: /my-site/USC
 ---
 # University of South Carolina (USC)
 
+具有PE传统的学校，有一个研究中心。
 [Power and Energy Systems](http://vtb.engr.sc.edu/)
 
 ---
