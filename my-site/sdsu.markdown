@@ -6,7 +6,8 @@ permalink: /my-site/SDSU
 # South Dakota State University
 [Steve Hietpas](https://www.sdstate.edu/directory/steve-hietpas)
 
-1994 年PhD@Montana State，研究领域主要为电网，电机控制等。很少发文章。
+1994 年 PhD@Montana State，研究领域主要为电网，电机控制等。很少发文章。
+
 ---
 
 [Reinaldo Tonkoski](https://www.sdstate.edu/directory/reinaldo-tonkoski)
