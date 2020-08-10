@@ -17,5 +17,4 @@ permalink: /my-site/wvu
 
 [Muhammad A. Choudhry](https://www.statler.wvu.edu/faculty-staff/faculty/muhammad-choudhry)
 
-巴基斯坦人，1981 年 PhD@Purdue，研究领域主要为分布式系统，微网，HVDC 等，偏 PS，和 Feliachi 有不少合作文章，基本都是会
-议。
+巴基斯坦人，1981 年 PhD@Purdue，研究领域主要为分布式系统，微网，HVDC 等，偏 PS，和 Feliachi 有不少合作文章，基本都是会议。
