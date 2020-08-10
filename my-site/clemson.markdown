@@ -9,7 +9,7 @@ permalink: /my-site/clemson
 
 [Johan H. Enslin](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/jenslin.html)
 
-IEEE Fellow，南非人 1988年 PhD@ Rand Afrikaans University
+IEEE Fellow，南非人，1988年 PhD@ Rand Afrikaans University
 
 曾在工业界工作 20多年，之后在 UNCC任教，是 UNCC EPIC的创始人。
 
@@ -19,7 +19,7 @@ IEEE Fellow，南非人 1988年 PhD@ Rand Afrikaans University
 
 [Chris S. Edrington](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/cedrington.html)
 
-2004年 PhD@MST UTD的 Fahimi在 MST时候 的学生 。
+2004年 PhD@MST，UTD的 Fahimi在 MST时候 的学生 。
 
 曾在 FSU任教，于 2019年加入 Clemson。
 
@@ -39,7 +39,7 @@ IEEE Fellow，南非人 1988年 PhD@ Rand Afrikaans University
 
 [Kumar Venayagamoorthy](http://gvenaya.people.clemson.edu/index.php)
 
-尼日利亚人 2002年 PhD@Natal，南非土博，曾在MST任教，于 2011年加入 Clemson
+尼日利亚人，2002年 PhD@Natal，南非土博，曾在MST任教，于 2011年加入 Clemson
 
 研究领域主要为电网 FACTS STATCOM等，略偏 PS
 
