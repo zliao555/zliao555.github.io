@@ -5,8 +5,6 @@ permalink: /my-site/baylor
 ---
 # Baylor University (Baylor)
 
----
-
 [Annette von Jouanne](https://www.ecs.baylor.edu/index.php?id=961998)
 
 女，IEEE Fellow，1995 年 PhD@TAMU，曾在 Oregon State
