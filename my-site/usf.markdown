@@ -8,7 +8,7 @@ permalink: /my-site/usf
 
 女，大 AP，2001 年 PhD@WVU，东南大学校友，曾在 Midwest
 ISO 工作六年，研究领域主要为微网，分布式系统，风电等，偏 PS，其名下实验:
-[Smart Grid Power System Laboratory](http://power.eng.usf.edu/index.htm)
+[Smart Grid Power System Laboratory](http://power.eng.usf.edu/index.htm)。
 
 ---
 
