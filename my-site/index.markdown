@@ -50,7 +50,7 @@ layout: home
   * North Dakota State University (NDSU) 
   * [University of Dayton (UD)](https://zliao555.github.io/my-site/dayton)
   * [San Diego State University (SDSU)](https://zliao555.github.io/my-site/SDSU)
-  * [University of North Carolina, Charlotte (UNCC)](https://zliao555.github.io/my-site//my-site/UNCC) 
+  * [University of North Carolina, Charlotte (UNCC)](https://zliao555.github.io/my-site/UNCC) 
   * [Oregon State University (OSU)](https://zliao555.github.io/my-site/OSU)
   * [University of California, San Diego (UCSD)](https://zliao555.github.io/my-site/UCSD)
   * [University of California, Santa Cruz (UCSC)](https://zliao555.github.io/my-site/UCSC)
