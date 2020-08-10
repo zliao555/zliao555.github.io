@@ -15,20 +15,24 @@ permalink: /my-site/ucam-uk
 ---
 
 [Florin Udrea](http://www.eng.cam.ac.uk/profiles/fu10000)
+
 1995年PhD@Cambridge，英国皇家工程院院士，行业大牛。主要研究方向为IGBT,GaN HEMT等功率半导体器件。
 
 ---
 
 [Gehan Amaratunga](http://www.eng.cam.ac.uk/profiles/gaja1)
+
 1983年PhD@Cambridge，英国皇家工程院院士，行业大牛，Alex Huang在剑桥的导师。研究侧重器件设计和工艺，方向从功率器件，传感器，光伏电池到MEMS基本覆盖所有微电子集成电路领域。
 
 ---
 
 [Tim Coombs](http://www.eng.cam.ac.uk/profiles/tac1000)
+
 1985年PhD@Cambridge，主要研究方向是超导材料的应用，因为涉及超导电机，超导断路器等power方向应用也纳入了飞跃手册。组内中国学生较多。
 
 ---
 [Patrick Palmer](https://www.energy.cam.ac.uk/directory/prp11@cam.ac.uk)
+
 1985年PhD@Imperial College London。学术上已经不太活跃了，但毕业的学生创业都很成功，国内最近发展得不错的[基本半导体](http://www.basicsemi.com/)和[青铜剑](http://www.qtjtec.com/)都由其学生创立。
 
 ---
