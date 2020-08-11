@@ -5,8 +5,6 @@ permalink: /my-site/miami
 ---
 # Miami University, Oxford
 
----
-
 [Mark Scott](http://www.miamioh.edu/cec/academics/departments/ece/about/faculty-staff/scott-bio/)
 
 小 AP， 2015年 PhD@OSU Jin Wang的学生
