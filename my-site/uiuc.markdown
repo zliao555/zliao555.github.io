@@ -30,7 +30,7 @@ permalink: /my-site/uiuc
 
 [Andrew R. Stillwell](https://ece.illinois.edu/about/directory/faculty/andrewrs)
 
-小AP，2019年PhD@UIUC，Pilawa在在UIUC时候的学生时候的学生，进组之前在National Instruments做过7年的产品经理，也因此精通labview。后随老婆（现UIUC土木系教授，研究水利）来UIUC。研究领域主要为hybrid switch capacitor dc-dc, flying capacitor multilevel, PV inverter等。
+小AP，2019年PhD@UIUC，Pilawa在UIUC时的学生，进组之前在National Instruments做过7年的产品经理，也因此精通labview。后随老婆（现UIUC土木系教授，研究水利）来UIUC。研究领域主要为hybrid switch capacitor dc-dc, flying capacitor multilevel, PV inverter等。
 
 ---
 
