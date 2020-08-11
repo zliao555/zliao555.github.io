@@ -23,7 +23,7 @@ IEEE Fellow, 1989年 PhD@MIT，研究领域主要为高功率密度
 大 AP，瑞典人。2012年 PhD@MIT Perreault的学
 生，2014年Bass奖得主，曾在 UIUC任教，于 2018年加入UCB。 研究领域主
 要为通信电源，高功率密度变换器，超高频电力电子，光伏等。其名下实验室：
-[Pilawa Research Group](https://pilawa.ece.illinois.edu/)，近几年文章非常多，实验室发展很快 中国学生基本都有海外经历。2015年参加google little box challenge，运用flying capacitor multilevel, 和series-stacked buffer的架构做出了功率密度很高的2 kw PV inverter。由此确定出之后的研究方向。
+[Pilawa Research Group](https://pilawa.ece.illinois.edu/)，近几年文章非常多，实验室发展很快。中国学生基本都有海外经历。2015年参加google little box challenge，运用flying capacitor multilevel, 和series-stacked buffer的架构做出了功率密度很高的2 kw PV inverter。由此确定出之后的研究方向。
 
 目前的主要的研究方向：
 * Hybrid switch-capacitor dc-dc拓扑，优化和控制，以及data center power system里的应用，比如48V dc-bus step-down。
@@ -41,13 +41,13 @@ IEEE Fellow, 1989年 PhD@MIT，研究领域主要为高功率密度
 
 [Duncan Callaway](https://erg.berkeley.edu/people/callaway-duncan/)
 
-大AP。phd@Cornell. Duncan属于伯利克的 [energy & resources group](https://erg.berkeley.edu/)。主要研究方向是power system，但也研究介于power system和power electronics中间的领域，比如PV inverter并网的控制与优化等。
+大AP。phd@Cornell。 Duncan属于伯利克的 [energy & resources group](https://erg.berkeley.edu/)。主要研究方向是power system，但也研究介于power system和power electronics中间的领域，比如PV inverter并网的控制与优化等。
 
 ---
 
 [Alexandra von Meier](https://www2.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html)
 
-Adjunct Professor. EE的客座教授，主要研究方向是power system，比如PMU数据的应用等。
+Adjunct Professor。 EE的客座教授，主要研究方向是power system，比如PMU数据的应用等。
 
 
 
