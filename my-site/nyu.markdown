@@ -5,8 +5,6 @@ permalink: /my-site/nyu
 ---
 # New York University
 
----
-
 有一个Power实验室。主要做 PS，但也有和 PE相关的方向：[Power Lab](http://engineering.nyu.edu/power/)
 
 ---
