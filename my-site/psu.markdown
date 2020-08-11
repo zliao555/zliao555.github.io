@@ -5,8 +5,6 @@ permalink: /my-site/psu
 ---
 # Pennsylvania State University
 
----
-
 [Nilanjan Ray Chaudhuri](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=nuc88)
 
 大 AP 印度人 2011年 PhD@ Imperial College London
