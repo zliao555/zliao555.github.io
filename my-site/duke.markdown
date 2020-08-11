@@ -5,8 +5,6 @@ permalink: /my-site/duke
 ---
 # Duke University
 
----
-
 Fred Lee的母校。
 
 ---
