@@ -5,8 +5,6 @@ permalink: /my-site/lehigh
 ---
 # Lehigh University
 
----
-
 [Wenxin Liu](https://www.lehigh.edu/~wel814/)
 
 大 AP，2005年 PhD@MST。东北大学校友，曾在 NMSU任教，于2014年加入 Lehigh。
