@@ -5,8 +5,6 @@ permalink: /my-site/buffalo
 ---
 # University at Buffalo, SUNY (UB)
 
----
-
 这所学校有个 Energy Systems area 的网站：[Energy Systems](http://engineering.buffalo.edu/ee/research/areas/energy.html)
 
 ---
