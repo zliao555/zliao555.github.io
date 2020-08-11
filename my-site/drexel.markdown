@@ -5,8 +5,6 @@ permalink: /my-site/drexel
 ---
 # Drexel University
 
----
-
 [Fei Lu](https://drexel.edu/engineering/about/faculty-staff/L/lu-fei/)
 
 小 AP， 2017年 PhD@Umich Hofmann的学生
