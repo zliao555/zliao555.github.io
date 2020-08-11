@@ -5,8 +5,6 @@ permalink: /my-site/tufts
 ---
 # Tufts University
 
----
-
 [Aleksandar Stanković](https://engineering.tufts.edu/ece/people/faculty/aleksandar-stankovi%C4%87)
 
 IEEE Fellow。 1993年 PhD@MIT 曾在 NEU任教十多年
