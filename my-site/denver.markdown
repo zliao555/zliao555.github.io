@@ -5,8 +5,6 @@ permalink: /my-site/denver
 ---
 # University of Denver
 
----
-
 [David Wenzhong Gao](https://ritchieschool.du.edu/about/people/wenzhong-gao)
 
 2001年 PhD@Gatech。西北工业大学校友
