@@ -5,8 +5,6 @@ permalink: /my-site/uconn
 ---
 # University of Connecticut
 
----
-
 [Faculty of Sustainable Energy](https://www.ee.uconn.edu/people/faculty/faculty_research#SE)
 
 ---
