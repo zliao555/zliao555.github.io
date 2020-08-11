@@ -5,8 +5,6 @@ permalink: /my-site/temple
 ---
 # Temple University
 
----
-
 [Liang Du](https://engineering.temple.edu/about/faculty-staff/liang-du-tuh42721)
 
 小 AP， 2013年 PhD@Gatech Habetler的学生
