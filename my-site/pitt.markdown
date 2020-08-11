@@ -5,8 +5,6 @@ permalink: /my-site/pitt
 ---
 # University of Pittsburgh
 
----
-
 Pitt也是 Power传统强校。但是曾经沉寂了一段时间。近几年重新起步，正在发展中。2014年建了一个实验室。主要研究微网、HVDC等
 
 [University of Pittsburgh Center for Energy](https://www.engineering.pitt.edu/cfe/)
