@@ -5,8 +5,6 @@ permalink: /my-site/gwu
 ---
 # George Washington University
 
----
-
 [Website of Electrical Power and Energy](https://www.ece.seas.gwu.edu/electrical-power-and-energy)
 
 ---
