@@ -5,8 +5,6 @@ permalink: /my-site/clemson
 ---
 # Clemson University
 
----
-
 [Johan H. Enslin](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/jenslin.html)
 
 IEEE Fellow，南非人，1988年 PhD@ Rand Afrikaans University
