@@ -19,28 +19,27 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Flying Brouche
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+#email: your-email@example.com
+#description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" 
-twitter_username: jekyllrb
-github_username:  jekyll
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" 
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 #theme: minima
 <<<<<<< HEAD
 #remote_theme: pmarsceill/just-the-docs
-theme: just-the-docs
+#theme: just-the-docs
 =======
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 #theme: just-the-docs
->>>>>>> b4548d4d66e2f0dca6fa7cb38a7119bcef0e67f1
-plugins:
-  - jekyll-feed
+#plugins:
+ # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
