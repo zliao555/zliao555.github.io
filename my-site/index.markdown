@@ -18,7 +18,7 @@ layout: home
 
 * [纪念涵东](https://handonggui.github.io/)
 * [涵东的序](https://zliao555.github.io/my-site/handong_intro)
-* [更新记录 (新老师，跳槽等)](https://zliao555.github.io/my-site/update)
+* [更新记录 (新老师，跳槽等)](https://zliao555.github.io/my-site/updates)
 
 * **USA**
   * [Massachusetts Institute of Technology (MIT)](https://zliao555.github.io/my-site/mit)
