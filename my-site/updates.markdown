@@ -3,10 +3,11 @@ layout: page
 title: updates
 permalink: /my-site/updates
 ---
-2020更新
+# 2020更新
 
 **跳槽**
-[Fang Luo](zliao555.github.io/my-site/stony), UArkansas to Stony Brook University.
+
+* [Fang Luo](https://zliao555.github.io/my-site/stony), UArkansas to Stony Brook University.
 
 **新老师**
 
