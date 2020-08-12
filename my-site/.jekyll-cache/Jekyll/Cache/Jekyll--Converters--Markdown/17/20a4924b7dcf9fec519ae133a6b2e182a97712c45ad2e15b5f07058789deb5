@@ -1,0 +1,208 @@
+I"!9<h1 id="飞跃手册">飞跃手册</h1>
+
+<h2 id="前言"><strong>前言</strong></h2>
+
+<p>电力电子（PE）飞跃手册是桂涵东博士生前的一项志愿者项目，致力于给PE的申请者提供有用的关于导师的第一手信息。涵东不幸去世后，我们将涵东原本的PDF移植到github上作为一个开源项目，希望通过大家的力量不断充实，完善，扩大这个手册的内容，将涵东为华人电力电子这个community奉献的精神传承下去。</p>
+
+<p>目前我们希望在涵东原有手册的基础上，增加更多国家地区的学校，更多power system老师的信息，以及涵东提到的，增加学生就业情况及工业界分布的信息等。</p>
+
+<p>网站现在由位于世界各地的志愿者维护。如果您对网站内容有修改意见，或者想加入我们的志愿者团队，请联系（liaozitao@gmail.com）</p>
+
+<hr />
+
+<ul>
+  <li><a href="https://handonggui.github.io/">纪念涵东</a></li>
+  <li><a href="https://zliao555.github.io/my-site/handong_intro">涵东的序</a></li>
+  <li>
+    <p><a href="https://zliao555.github.io/my-site/updates">更新记录 (新老师，跳槽等)</a></p>
+  </li>
+  <li><strong>USA</strong>
+    <ul>
+      <li><a href="https://zliao555.github.io/my-site/mit">Massachusetts Institute of Technology (MIT)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/stanford">Stanford University (Stanford)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/princeton">Princeton University (Princeton)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ucb">University of California, Berkeley (UCB)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/cornell">Cornell University (Cornell)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/colombia">Colombia University (Colombia)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uiuc">University of Illinois, Urbana-Champaign (UIUC)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/umich">University of Michigan, Ann Arbor (Umich)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/dartmouth">Dartmouth College (Dartmouth)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/gatech">Georgia Institute of Technology (Gatech)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/utaustin">University of Texas, Austin (UTAustin)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/tamu">Texas A&amp;M University (TAMU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/cuboulder">University of Colorado, Boulder (CU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uwmadison">University of Wisconsin, Madison (UW)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/vt">Virginia Polytechnic Institute and State University (VT)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/utk">University of Tennessee, Knoxville (UTK)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ncsu">North Carolina State University, Raleigh (NCSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/osu">Ohio State University, Columbus (OSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uark">University of Arkansas (UArk)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/fsu">Florida State University (FSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/utd">University of Texas, Dallas (UTD)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/iit">Illinois Institute of Technology (IIT)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/neu">Northeastern University (NEU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/asu">Arizona State University, Tempe (ASU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/stony">Stony Brook University</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uf">University of Florida (UF)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ucla">University of California, Los Angeles (UCLA)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uw">University of Washington (UW)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/purdue">Purdue University (Purdue)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/umd">University of Maryland, College Park (UMD)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/msu">Michigan State University (MSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/rpi">Rensselaer Polytechnic Institute (RPI)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uci">University of California, Irvine (UCI)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/umn">University of Minnesota, Twin Cities (UMN)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/nebraska">University of Nebraska, Lincoln (UNL)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/USC">University of South Carolina (USC)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UGA">University of Georgia (UGA)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/dayton">University of Dayton (UD)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/SDSU">San Diego State University (SDSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UNCC">University of North Carolina, Charlotte (UNCC)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/OSU">Oregon State University (OSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UCSD">University of California, San Diego (UCSD)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UCSC">University of California, Santa Cruz (UCSC)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UA">University of Alabama (UA)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/USU">Utah State University (USU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/MST">Missouri University of Science and Technology (MST)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UMDearborn">University of Michigan, Dearborn (UM-Dearborn)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UH">University of Houston (UH)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Auburn">Auburn University (Auburn)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/marquette">Marquette University (Marquette)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/clemson">Clemson University (Clemson)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/drexel">Drexel University (Drexel)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/buffalo">University at Buffalo, SUNY (UB)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/temple">Temple University (Temple)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/miami">Miami University, Oxford (MU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/nyu">New York University (NYU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/psu">Pennsylvania State University (PSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uconn">University of Connecticut (UConn)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/tufts">Tufts University (Tufts)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/gwu">George Washington University (GWU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/pitt">University of Pittsburgh (Pitt)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/duke">Duke University (Duke)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/denver">University of Denver (DU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/lehigh">Lehigh University (Lehigh)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/albany">University at Albany, SUNY (Albany)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/baylor">Baylor University (Baylor)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uic">University of Illinois, Chicago (UIC)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uta">University of Texas, Arlington (UTA)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/missouri">University of Missouri, Columbia (Missouri)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uky">University of Kentucky (UKY)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/lsu">Louisiana State University (LSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/mtu">Michigan Technological University (MTU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ku">Kansas University (KU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ksu">Kansas State University (KSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ttu">Texas Tech University (TTU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/mines">Colorado School of Mines (Mines)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/clarkson">Clarkson University (Clarkson)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/okstate">Oklahoma State University (OkState)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uml">University of Massachusetts, Lowell (UML)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/usf">University of South Florida (USF)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ucf">University of Central Florida (UCF)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/wvu">West Virginia University (WVU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/uwmil">University of Wisconsin, Milwaukee (UWM)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/und">University of North Dakota (UND)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/SDASU">South Dakota State University (SDSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/unr">University of Nevada, Reno (UNR)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/fiu">Florida International University (FIU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/siuc">Southern Illinois University, Carbondale (SIUC)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/MSU">Montana State University (MSU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/niu">Northern Illinois University (NIU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/utsa">University of Texas, San Antonio (UTSA)</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<ul>
+  <li><strong>Canada</strong>
+    <ul>
+      <li><a href="https://zliao555.github.io/my-site/UofT">University of Toronto (UofT)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/McGill">McGill University (McGill)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/ubc">University of British Columbia (UBC)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Alberta">University of Alberta (Alberta)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Mac">McMaster University (Mac)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Queens">Queen’s University (Queens)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UWO">Western University (UWO)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Waterloo">University of Waterloo (Waterloo)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/UCalgary">University of Calgary (UCalgary)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/SFU">Simon Fraser University (SFU)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Victoria">University of Victoria (Victoria)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Manitoba">University of Manitoba (Manitoba)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Carleton">Carleton University (Carleton)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Concordia">Concordia University (Concordia)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/MUN">Memorial University of Newfoundland (MUN)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Ryerson">Ryerson University (Ryerson)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Brunswick">University of New Brunswick (Brunswick)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Windsor">University of Windsor (Windsor)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/Lakehead">Lakehead University (Lakehead)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/OntarioTech">Ontario Tech University (OntarioTech)</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<ul>
+  <li><strong>Europe</strong>
+    <ul>
+      <li>Aalborg University (AAU)</li>
+      <li>ETH Zurich (ETH)</li>
+      <li>Technical University of Denmark (DTU)</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<ul>
+  <li><strong>UK</strong>
+    <ul>
+      <li><a href="https://zliao555.github.io/my-site/ucam-uk">University of Cambridge(CAM)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/icl-uk">Imperial College London(ICL)</a></li>
+      <li><a href="https://zliao555.github.io/my-site/edinburgh-UK">University of Edinburgh</a></li>
+      <li><a href="https://zliao555.github.io/my-site/bristol-uk">University of Bristol</a></li>
+      <li><a href="https://zliao555.github.io/my-site/nott-uk">University of Nottingham</a></li>
+      <li><a href="https://zliao555.github.io/my-site/glasgow-uk">University of Glasgow</a></li>
+      <li><a href="https://zliao555.github.io/my-site/sheff-uk">University of Sheffield</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<ul>
+  <li><strong>Hong Kong</strong>
+    <ul>
+      <li>Hong Kong University (HKU)</li>
+      <li>City University of Hong Kong (CUHK)</li>
+      <li>Hong Kong Polytechnic University (HKPU)</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<ul>
+  <li><strong>Australia</strong>
+    <ul>
+      <li>University of Sydney (USYD)</li>
+      <li>University of Technology Sydney (UTSY)</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<ul>
+  <li><strong>附录</strong>
+    <ul>
+      <li>PE领域美国工程院院士</li>
+      <li>历年William E. Newell Power Electronics Award得主列表</li>
+      <li>历年R. David Middlebrook Award得主列表</li>
+      <li>历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表</li>
+    </ul>
+  </li>
+</ul>
+:ET
