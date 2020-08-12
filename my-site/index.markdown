@@ -50,7 +50,7 @@ layout: home
   * [University of Washington (UW)](https://zliao555.github.io/my-site/uw) 
   * [Purdue University (Purdue)](https://zliao555.github.io/my-site/purdue)
   * [University of Maryland, College Park (UMD)](https://zliao555.github.io/my-site/umd)
-  * [Michigan State University (MSU)]
+  * [Michigan State University (MSU)](https://zliao555.github.io/my-site/msu)
   * [Rensselaer Polytechnic Institute (RPI)](https://zliao555.github.io/my-site/rpi)
   * [University of California, Irvine (UCI)](https://zliao555.github.io/my-site/uci)
   * [University of Minnesota, Twin Cities (UMN)](https://zliao555.github.io/my-site/umn) 
