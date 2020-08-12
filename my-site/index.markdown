@@ -18,7 +18,7 @@ layout: home
 
 * [纪念涵东](https://handonggui.github.io/)
 * [涵东的序](https://zliao555.github.io/my-site/handong_intro)
-* [更新记录 (新老师，跳槽等)] (https://zliao555.github.io/my-site/update)
+* [更新记录 (新老师，跳槽等)](https://zliao555.github.io/my-site/update)
 
 * **USA**
   * [Massachusetts Institute of Technology (MIT)](https://zliao555.github.io/my-site/mit)
@@ -45,6 +45,7 @@ layout: home
   * [Illinois Institute of Technology (IIT)](https://zliao555.github.io/my-site/iit)
   * [Northeastern University (NEU)](https://zliao555.github.io/my-site/neu)
   * [Arizona State University, Tempe (ASU)](https://zliao555.github.io/my-site/asu)
+  * [Stony Brook University](https://zliao555.github.io/my-site/stony)
   * [University of Florida (UF)](https://zliao555.github.io/my-site/uf) 
   * [University of California, Los Angeles (UCLA)](https://zliao555.github.io/my-site/ucla)
   * [University of Washington (UW)](https://zliao555.github.io/my-site/uw) 
