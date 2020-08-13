@@ -16,7 +16,7 @@ permalink: /my-site/ucam-uk
 
 [Florin Udrea](http://www.eng.cam.ac.uk/profiles/fu10000)
 
-1995年PhD@Cambridge，英国皇家工程院院士，行业大牛。主要研究方向为IGBT,GaN HEMT等功率半导体器件。
+1995年PhD@Cambridge，英国皇家工程院院士，行业大牛。主要研究方向为IGBT,GaN HEMT等功率半导体器件的设计。Funding很多名下有多家创业公司。
 
 ---
 
@@ -28,7 +28,7 @@ permalink: /my-site/ucam-uk
 
 [Tim Coombs](http://www.eng.cam.ac.uk/profiles/tac1000)
 
-1985年PhD@Cambridge，主要研究方向是超导材料的应用，因为涉及超导电机，超导断路器等power方向应用也纳入了飞跃手册。组内中国学生较多。
+1985年PhD@Cambridge，主要研究方向是超导材料的应用，因为涉及超导电机，超导断路器等power方向应用也纳入了飞跃手册。组内以中国学生为主。
 
 ---
 [Patrick Palmer](https://www.energy.cam.ac.uk/directory/prp11@cam.ac.uk)
