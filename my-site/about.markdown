@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: my-site/about/
 ---
 电力电子（PE）飞跃手册是桂涵东博士生前的一项志愿者项目，致力于给PE的申请者提供有用的关于导师的第一手信息。涵东不幸去世后，我们将涵东原本的PDF移植到github上作为一个开源项目，希望通过大家的力量不断充实，完善，扩大这个手册的内容，将涵东为华人电力电子这个community奉献的精神传承下去。
 
