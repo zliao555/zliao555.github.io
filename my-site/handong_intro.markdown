@@ -1,6 +1,6 @@
 ---
 layout: page
-title: handong_intro
+title: 涵东的序
 permalink: /my-site/handong_intro
 ---
 # 涵东的序
