@@ -150,7 +150,7 @@ layout: home
   * [University of Cambridge(CAM)](https://zliao555.github.io/my-site/ucam-uk)
   * [Imperial College London(ICL)](https://zliao555.github.io/my-site/icl-uk)
   * [University of Edinburgh](https://zliao555.github.io/my-site/edinburgh-UK)
-  * [University of Bristol](https://zliao555.github.io/my-site/bristol-uk)
+  * [University of Bristol](https://zliao555.github.io/my-site/bristol-UK)
   * [University of Nottingham](https://zliao555.github.io/my-site/nott-uk)
   * [University of Glasgow](https://zliao555.github.io/my-site/glasgow-uk)
   * [University of Sheffield](https://zliao555.github.io/my-site/sheff-uk)
