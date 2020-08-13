@@ -361,7 +361,7 @@
   },"60": {
     "doc": "About",
     "title": "About",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . hehehehehehehe . ",
+    "content": "电力电子（PE）飞跃手册是桂涵东博士生前的一项志愿者项目，致力于给PE的申请者提供有用的关于导师的第一手信息。涵东不幸去世后，我们将涵东原本的PDF移植到github上作为一个开源项目，希望通过大家的力量不断充实，完善，扩大这个手册的内容，将涵东为华人电力电子这个community奉献的精神传承下去。 . 目前我们希望在涵东原有手册的基础上，增加更多国家地区的学校，更多power system老师的信息，以及涵东提到的，增加学生就业情况及工业界分布的信息等。 . 网站现在由位于世界各地的志愿者维护。如果您对网站内容有修改意见，或者想加入我们的志愿者团队，请联系（liaozitao@gmail.com） . ",
     "url": "/about/",
     "relUrl": "/about/"
   },"61": {
@@ -391,7 +391,7 @@
   },"65": {
     "doc": "University of Bristol, UK",
     "title": "University of Bristol",
-    "content": " ",
+    "content": "Xibo Yuan：2010年 PhD@Tsinghua，2011年加入Bristol，主要研究方向为新器件应用，多电平，风力发电等。 . Bernard Stark：2000年 PhD@Cambridge，主要研究方向为微能量收集，器件集成等小功率应用。 . Saeed Jahdi：2016年PhD@Warwick，主要研究方向为新器件建模，驱动电路设计等。 . Ian Laird：2008年PhD@University of Sydney，研究方向为变换器拓扑，系统优化等。 . Nick Simpson：2014年PhD@Bristol，主要研究方向为特种电机设计。 . ",
     "url": "/my-site/bristol-UK#university-of-bristol",
     "relUrl": "/my-site/bristol-UK#university-of-bristol"
   },"66": {
