@@ -140,7 +140,7 @@ layout: home
   ---
   
 * **Europe**
-  * [Aalborg University (AAU)] (https://zliao555.github.io/my-site/AAU)
+  * [Aalborg University (AAU)](https://zliao555.github.io/my-site/AAU)
   * ETH Zurich (ETH)
   * Technical University of Denmark (DTU)
   
