@@ -31,7 +31,7 @@ No. 2 in Electrical and Electronic Engineering
 ---
 
 
-[Frede Blaabjerg] (https://vbn.aau.dk/en/persons/101000)
+[Frede Blaabjerg](https://vbn.aau.dk/en/persons/101000)
 
 IEEE FELLOW，Full professor。 中国学生亲切的将Prof. Frede Blaabjerg称为佛爷。将Frede列在《北欧飞跃手册》中的第一位介绍对象并不过分，因为他自己就是电力电子学届的一面旗帜。
 截至2020年8月份，Frede在Google Scholar中所记载的总被引次数累计超过11w次，其中h指数155，i10指数1167。
@@ -44,7 +44,7 @@ Frede拥有自己的团队，其下包括 Huai Wang， Xiongfei Wang， Francesc
 
 ---
 
-[Josep Guerrero] (https://vbn.aau.dk/en/persons/124612)
+[Josep Guerrero](https://vbn.aau.dk/en/persons/124612)
 
 IEEE FELLOW, Full professor。是一位拥有较深学术造诣，且擅长音乐的IEEE FELLOW。
 截至2020年8月份，Josep在Google Scholar中所记载的总被引次数累计超过5.4w次，其中h指数103，i10指数582。
@@ -53,7 +53,7 @@ Josep拥有自己的团队，其下包括Juan C. Vasquez，Saeed Golestan， Yaj
 
 ---
 
-[Remus Teodorescu] (https://vbn.aau.dk/en/persons/100319)
+[Remus Teodorescu](https://vbn.aau.dk/en/persons/100319)
 
 IEEE FELLOW, Full professor。
 拥有极深的学术造诣，其与Marco Liserre, Pedro Rodriguez所一同编著的《Grid Converters for Photovoltaic and Wind Power Systems》 是新能源并网领域非常著名的一本书。这几年主要从事MMC和储能方面的研究。
@@ -63,7 +63,7 @@ Remus拥有自己的团队，其下主要包括Sanjay Chaudhary。
 ---
 
 
-[Zhe Chen] (https://vbn.aau.dk/en/persons/109374)
+[Zhe Chen](https://vbn.aau.dk/en/persons/109374)
 
 IEEE FELLOW, Full professor。 Zhe Chen 主攻风电并网方向的研究。虽然已经年逾古稀之年，却时常能在深夜看见他矍铄的身影。
 其学生主要由组内的三位青年学者，Zhou Liu, Yanbo Wang 和 Dong Liu一同协助指导。
@@ -72,7 +72,7 @@ IEEE FELLOW, Full professor。 Zhe Chen 主攻风电并网方向的研究。虽�
 ---
 
 
-[Stig Munk-Nielsen] (https://vbn.aau.dk/en/persons/105779)
+[Stig Munk-Nielsen](https://vbn.aau.dk/en/persons/105779)
 
 Full professor。 主要研究都集中在硬件方面，涵盖谐振变换器，多电平变换器，变换器状态监测。
 近几年获得大项目资助，建立Power module packaging实验室，拥有独立的器件封装和测试能力。最近的研究方向通过与丹麦企业合作，主要集中在10 kV SiC MOSFETs
@@ -82,14 +82,14 @@ Full professor。 主要研究都集中在硬件方面，涵盖谐振变换器�
 
 ---
 
-[Huai Wang] (https://vbn.aau.dk/en/persons/126832)
+[Huai Wang](https://vbn.aau.dk/en/persons/126832)
 
 Full professor。 是近些年在能源系冉冉升起的学术界新星之一。Huai本人学术经历十分丰富，毕业于香港城市大学，导师是著名学者 Henry Chung，毕业后先后在MIT等著名学府任职。
 在奥尔堡能源系，通过对电容的可靠性进行建模逐渐开创了一个独特且重要的领域，是电力电子可靠性方面的专家。其对待学生非常nice，同时拥有非常强的思维和总结能力。近年来涉及的方面已不仅仅局限于电容可靠性，在变换器的状态检测，变换器拓扑，人工智能在电力电子中的应用，以及磁性元件领域均有很不错的建树。Huai同时担任了业内多份顶级杂志的AE，是2016年PELS Bass奖的获得者。
 
 ---
 
-[Xiongfei Wang] (https://vbn.aau.dk/en/persons/121393)
+[Xiongfei Wang](https://vbn.aau.dk/en/persons/121393)
 
 Full professor。 是Frede和Zhe Chen的学生，电力电子变换器并网控制和建模方面专家。Xiongfei以第一作者发表的论文中，90%都成为了ESI高引论文，16年入选AAU talent 计划，并先后获得了PELS Bass 奖，PELS sustainable energy system technical achievement award. 他的研究内容获得了来自工业的广泛关注，与工业巨头 ABB，Huawei，德国电网公司等拥有密切合作关系。Huawei也因此在奥尔堡设立了创新研究中心，未来将会持续投资支持相关研究。Xiongfei要求严格，对研究拥有非常高的眼光和标准，同时讲究研究的实用价值，大部分成果都直接或间接的应用到工业产品中去，这也是吸引到越来越多工业界资助项目的原因。其组内的学生的工作时间普遍较长，但学生对他的评价依然很高。近几年，获得了大量项目资助，其组内的学生目前大部分都是全奖博士或RA。他主要的研究方向是电力电子化电力系统的控制和稳定性分析，电能质量控制，有源和无源滤波器的设计等。最近也逐渐开始硬件设计方面的研究。
 [课题组网站] (https://www.et.aau.dk/research-programmes/egrid/)
@@ -97,7 +97,7 @@ Full professor。 是Frede和Zhe Chen的学生，电力电子变换器并网控�
 
 ---
 
-[Francesco Iannuzzo] (https://vbn.aau.dk/en/persons/132820)
+[Francesco Iannuzzo](https://vbn.aau.dk/en/persons/132820)
 
 Full professor。 半导体物理学博士出生，是功率器件建模和可靠性方面专家，在功率器件(IGBT, SiC等等)状态监测和失效机理分析方面做了大量的工作，
 为人比较热情。华科的同学应该对他很熟悉，因为他多次前往华科进行短期教学。大部分同学反映Francesco的课程非常有含金量。他并不是很热衷发论文，
@@ -105,7 +105,7 @@ Full professor。 半导体物理学博士出生，是功率器件建模和可�
 
 ---
 
-[Pooya Davari] (https://vbn.aau.dk/en/persons/132681)
+[Pooya Davari](https://vbn.aau.dk/en/persons/132681)
  
 Assoc. professor。 研究方向是电力电子变换器的EMI建模和分析，以及电机控制等。获得2020 IEEE EMC Society Young Professional Award。
 最近几年的研究重点侧重于EMI/EMC 方面，他所管理的EMI实验室可以测量conducted EMC 和radiated EMC, 
@@ -113,73 +113,73 @@ Assoc. professor。 研究方向是电力电子变换器的EMI建模和分析，
 
 ---
 
-[Yongheng Yang] (https://vbn.aau.dk/en/persons/125006)
+[Yongheng Yang](https://vbn.aau.dk/en/persons/125006)
 
  Assoc. professor。 研究方向是光伏逆变器的控制和可靠性分析，硬件和软件都做，涉及的方面非常宽泛，几乎每个学生的研究方向都不相同。他前几年主要和Frede一起带学生，这几年来也开始独立带博士，组内中国学生较多，要求比较严格，学术产出也比较高。组内大部分学生都是CSC资助，据说今年有优秀的学生获得了项目资助。
 
 ---
  
-[Erik Schaltz] (https://vbn.aau.dk/en/persons/113152)
+[Erik Schaltz](https://vbn.aau.dk/en/persons/113152)
 
 Assoc. professor。 研究方向是燃料电池和电动汽车的设计和制造。他的实验室更像是一个修车厂，将一个基于化石燃料的帕萨特改造成了电驱，并且可以真正的在公路路运行。其学术产出相对较少，主要研究集中在车载电池的管理和监测方向。组内目前为止还没有中国学生。
 
 ---
 
-[Tamas Kerekes] (https://vbn.aau.dk/en/persons/113161)
+[Tamas Kerekes](https://vbn.aau.dk/en/persons/113161)
 
 Assoc. professor。 研究方向是光伏逆变器，曾经属于Remus大组，后独立成立了自己的光伏研究组，学生比较少，但据说人比较nice，比较喜欢开玩笑。这几年有一些funding，部分的优秀的学生获得了项目的资助。其实验室可以测试光伏太阳能板的在不同光照，温度条件下的性能。
 
 
 ---
 
-[Dao Zhou] (https://vbn.aau.dk/en/persons/126549)
+[Dao Zhou](https://vbn.aau.dk/en/persons/126549)
 
 Assis. Professor。研究方向是风电变流器的可靠性分析，主要和Frede一起带学生，对学生非常nice。经常自己做实验，搭台子，记录数据等。
 
 ---
 
-[Haoran Wang] (https://vbn.aau.dk/en/persons/136642)
+[Haoran Wang](https://vbn.aau.dk/en/persons/136642)
 
 Assis. Professor。 研究方向是电容的可靠性分析以及有源电容变换器，目前和Huai Wang老师一起带学生，思维敏捷，动手能力强，对学生非常nice。自己还在搭台子做试验等。
 
 ---
 
-[Amir Sajjad Bahman] (https://vbn.aau.dk/en/persons/128003)
+[Amir Sajjad Bahman](https://vbn.aau.dk/en/persons/128003)
 
 Assis. Professor
 研究方向为器件可靠性以及基于有限元的热仿真，和Francesco一起带学生，组内学生主要来自伊朗。
 
 ---
 
-[Zhou Liu] (https://vbn.aau.dk/en/persons/120591)
+[Zhou Liu](https://vbn.aau.dk/en/persons/120591)
  
 Assis. Professor
 研究方向偏电力系统规划，继电保护，以及人工智能在电力系统中的应用，和Zhe Chen老师一起带学生，组内基本是中国学生。
 
 ---
 
-[Yanbo Wang] (https://vbn.aau.dk/en/persons/134363)
+[Yanbo Wang](https://vbn.aau.dk/en/persons/134363)
 
 Assis. Professor
 研究方向是电力电子和电力系统稳定性以及可靠性分析，主要帮助Zhe Chen老师一起带学生，组内基本是中国学生。
 
 ---
 
-[Yajuan Guan] (https://vbn.aau.dk/en/persons/130856)
+[Yajuan Guan](https://vbn.aau.dk/en/persons/130856)
 
 Assis. Professor。
 研究方向为微电网的控制，物联网在微电网的应用等，和Josep老师一起带学生，对学生非常nice，组内学生以中国和伊朗学生为主。
 
 ---
 
-[Qian Wang] (https://vbn.aau.dk/en/persons/135716)
+[Qian Wang](https://vbn.aau.dk/en/persons/135716)
 
 Assis. Professor
 研究方向是偏重电力系统高压绝缘这块，属于电力系统组。近几年也在涉及与电力电子结合的课题研究，例如中压电力电子器件中的绝缘和老化问题，局部放电的测量等。平易近人且非常nice。
 
 ---
 
-[Kaiyuan Lu] (https://vbn.aau.dk/en/persons/100023)
+[Kaiyuan Lu](https://vbn.aau.dk/en/persons/100023)
 
 Assoc. professor
 研究方向是电机本体设计和控制，对学生很nice，对电机的有自己独特的理解。逻辑思维能力非常强。组内有不少中国学生，但大部分都是CSC资助。
