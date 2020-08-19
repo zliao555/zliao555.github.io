@@ -154,19 +154,22 @@ layout: home
   * [University of Nottingham](https://zliao555.github.io/my-site/nott-uk)
   * [University of Glasgow](https://zliao555.github.io/my-site/glasgow-uk)
   * [University of Sheffield](https://zliao555.github.io/my-site/sheff-uk)
+  * [University of Birmingham](https://zliao555.github.io/my-site/Birmingham-uk)
+  * [University of Loughborough](https://zliao555.github.io/my-site/Loughborough-uk)
+  * [Aston University](https://zliao555.github.io/my-site/Aston-uk)
   
   ---
   
 * **Hong Kong**
-  * Hong Kong University (HKU)
-  * City University of Hong Kong (CUHK)
-  * Hong Kong Polytechnic University (HKPU)
+  * [Hong Kong University (HKU)](https://zliao555.github.io/my-site/hku)
+  * [City University of Hong Kong (CityU)](https://zliao555.github.io/my-site/cityu)
+  * [Hong Kong Polytechnic University (HKPU)](https://zliao555.github.io/my-site/polyu)
   
   ---
   
 * **Australia**
-  * University of Sydney (USYD)
-  * University of Technology Sydney (UTSY)
+  * [University of Sydney (USYD)](https://zliao555.github.io/my-site/usyd)
+  * [University of Technology Sydney (UTS)](https://zliao555.github.io/my-site/uts)
   
   ---
   
