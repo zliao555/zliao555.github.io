@@ -174,7 +174,8 @@ layout: home
   ---
   
 * **附录** 
+  * [历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表](https://zliao555.github.io/my-site/bass)
   * PE领域美国工程院院士 
   * 历年William E. Newell Power Electronics Award得主列表 
   * 历年R. David Middlebrook Award得主列表 
-  * 历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表 
+ 
