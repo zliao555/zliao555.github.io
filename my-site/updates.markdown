@@ -8,6 +8,7 @@ permalink: /my-site/updates
 **跳槽**
 
 * [Fang Luo](https://zliao555.github.io/my-site/stony), UArkansas to Stony Brook University.
+* [Jun Wang](https://zliao555.github.io/my-site/nebraska), VT to University of Nebraska-Lincoln
 
 **新老师**
 

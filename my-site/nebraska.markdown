@@ -28,4 +28,9 @@ IEEE Fellow，1985年PhD@TTU，曾任IEEE Power Electronics Society (PELS)的主
 
 女，大AP，2007年PhD@UIUC。Chapman的学生，浙江大学校友。研究领域主要为智能电网，风电，新型变压器等，目前和 Wei Qiao在 一起 。
 
+---
+
+[Jun Wang](https://cpes.vt.edu/people/faculty/1227)
+
+小AP, 由VT research AP转到Nebraska. 研究方向 SiC module的设计和在medium power逆变器里的应用 
 
