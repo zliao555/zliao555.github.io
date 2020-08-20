@@ -31,3 +31,10 @@ IEEE Fellow 1989年 PhD@UW 曾在 GM工作，研究领域主要为电机控制�
 
 女。大AP，伊朗人 2008年 PhD@UofT， Iravani的学生
 曾在ABB工作之后在Purdue任教四年，于2014年加入Gatech。 2010年Bass奖得主。研究领域主要为 HVDC，微网等。近几年文章很多，手下有中国学生。
+
+---
+
+[Lukas Graber](https://graber.ece.gatech.edu/)
+
+AP， 2009年 PhD@ETH，FSU博后，于2015年加入GT。研究领域主要为 断路器，超导电缆等。人非常nice，实验室氛围好，和Airbus等工业界有紧密合作。
+
