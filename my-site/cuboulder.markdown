@@ -1,8 +1,9 @@
 ---
 layout: page
-title:University of Colorado, Boulder
+title: University of Colorado, Boulder
 permalink: /my-site/cuboulder
 ---
+
 # University of Colorado, Boulder
 
 CU 有一个 PE 的实验室，总体而言 CU 的 PE 比较低调，但实力绝对毋庸置疑，老师都师出名门，研究重视理论基础，学院派：
