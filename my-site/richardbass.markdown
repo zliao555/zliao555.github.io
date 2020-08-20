@@ -22,7 +22,7 @@ ranging in power level from fractions of a watt to megawatts.
 * 2017  [Ali Davoudi (UTA)](https://zliao555.github.io/my-site/uta)
 * 2016  [Huai Wang (Aalborg)](https://zliao555.github.io/my-site/AAU)
 * 2015  Zixin Li（中科院）
-* 2014  Robert Pilawa-Podgurski (UIUC)
+* 2014  [Robert Pilawa-Podgurski (UCB)](https://zliao555.github.io/my-site/ucb)
 * 2013  Yunwei (Ryan) Li (Alberta)
 * 2012  Samir Kouro (UTFSM)
 * 2011  [Jin Wang (OSU)](https://zliao555.github.io/my-site/osu)
