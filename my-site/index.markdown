@@ -109,7 +109,7 @@ layout: home
   * [University of Nevada, Reno (UNR)](https://zliao555.github.io/my-site/unr)
   * [Florida International University (FIU)](https://zliao555.github.io/my-site/fiu)
   * [Southern Illinois University, Carbondale (SIUC)](https://zliao555.github.io/my-site/siuc)
-  * [Montana State University (MSU)](https://zliao555.github.io/my-site/MSU)
+  * [Montana State University (MSU)](https://zliao555.github.io/my-site/montana)
   * [Northern Illinois University (NIU)](https://zliao555.github.io/my-site/niu)
   * [University of Texas, San Antonio (UTSA)](https://zliao555.github.io/my-site/utsa)
   

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Montana State University (MSU)
-permalink: /my-site/MSU
+permalink: /my-site/montana
 ---
 # Montana State University
 [Hashem Nehrir](http://www.montana.edu/hnehrir/)
