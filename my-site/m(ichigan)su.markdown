@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Michigan State University (MSU)
-permalink: /my-site/msu
+permalink: /my-site/michigan-state
 ---
 # Michigan State University
 
