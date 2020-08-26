@@ -1,15 +1,20 @@
 ---
 layout: page
-title: South Dakota State University (SDSU)
-permalink: /my-site/SDASU
+title: San Diego State University (SDSU)
+permalink: /my-site/SDSU
 ---
-# South Dakota State University
-[Steve Hietpas](https://www.sdstate.edu/directory/steve-hietpas)
+# San Diego State University (SDSU)
 
-1994 年 PhD@Montana State，研究领域主要为电网，电机控制等。很少发文章。
+本来是无论综排还是Power都没什么名气的学校，但2015年把电动汽车大牛Chris Mi挖来，再加上地处加州具有得天独厚的地理优势，未来发展值得期待。
 
 ---
 
-[Reinaldo Tonkoski](https://www.sdstate.edu/directory/reinaldo-tonkoski)
+[Chris Mi](https://chrismi.sdsu.edu/)
 
-大 AP，巴西人，2011 年 PhD@Concordia，研究领域主要为电网，电池储能，光伏等，偏 PS。其名下实验室：[Microgrid Lab](https://www.sdstate.edu/electrical-engineering-and-computer-science/microgrid-lab)。
+IEEE Fellow，2000年PhD@UofT，西北工业大学校友，曾在Umich-Dearborn担任教职，2015年加入SDSU并担任Department Chair，是电动汽车领域的大牛。
+
+---
+
+[Reza Sabzehgar](http://engineering.sdsu.edu/sabzehga/)
+
+小AP，伊朗人，2012年PhD@Simon Fraser，研究领域主要为储能系统，电动汽车，微网等，发文章不多且都是第一作者，个人网站显示可以套磁。
