@@ -61,7 +61,7 @@ layout: home
   * [University of Dayton (UD)](https://zliao555.github.io/my-site/dayton)
   * [San Diego State University (SDSU)](https://zliao555.github.io/my-site/SDSU)
   * [University of North Carolina, Charlotte (UNCC)](https://zliao555.github.io/my-site/UNCC) 
-  * [Oregon State University (OSU)](https://zliao555.github.io/my-site/OSU)
+  * [Oregon State University (OSU)](https://zliao555.github.io/my-site/oregon)
   * [University of California, San Diego (UCSD)](https://zliao555.github.io/my-site/UCSD)
   * [University of California, Santa Cruz (UCSC)](https://zliao555.github.io/my-site/UCSC)
   * [University of Alabama (UA)](https://zliao555.github.io/my-site/UA)

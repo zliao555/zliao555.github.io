@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oregon State University (OSU)
-permalink: /my-site/OSU
+permalink: /my-site/oregon
 ---
 # Oregon State University (OSU)
 
