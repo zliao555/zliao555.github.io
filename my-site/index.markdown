@@ -38,7 +38,7 @@ layout: home
   * [Virginia Polytechnic Institute and State University (VT)](https://zliao555.github.io/my-site/vt) 
   * [University of Tennessee, Knoxville (UTK)](https://zliao555.github.io/my-site/utk) 
   * [North Carolina State University, Raleigh (NCSU)](https://zliao555.github.io/my-site/ncsu) 
-  * [Ohio State University, Columbus (OSU)](https://zliao555.github.io/my-site/osu) 
+  * [Ohio State University, Columbus (OSU)](https://zliao555.github.io/my-site/ohio-state) 
   * [University of Arkansas (UArk)](https://zliao555.github.io/my-site/uark)  
   * [Florida State University (FSU)](https://zliao555.github.io/my-site/fsu) 
   * [University of Texas, Dallas (UTD)](https://zliao555.github.io/my-site/utd) 
