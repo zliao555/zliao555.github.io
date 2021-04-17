@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oxford University
+title: University of Oxford
 permalink: /my-site/Oxford
 ---
 # Oxford
