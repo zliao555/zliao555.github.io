@@ -3,6 +3,19 @@ layout: page
 title: updates
 permalink: /my-site/updates
 ---
+
+---
+# 2021 更新
+
+**跳槽**
+[Ron Hui] HKU to Nanyang Tech
+
+**新老师**
+[Mike Ranjram](https://zliao555.github.io/my-site/asu) Arizona State
+[Chaoqiang Jiang](https://zliao555.github.io/my-site/cityu) HK City U
+[Wei Han](https://zliao555.github.io/my-site/hkust) HKUST
+
+---
 # 2020更新
 
 **跳槽**
@@ -11,7 +24,6 @@ permalink: /my-site/updates
 * [Jun Wang](https://zliao555.github.io/my-site/nebraska), VT to University of Nebraska-Lincoln
 
 **新老师**
-
 
 ---
 
