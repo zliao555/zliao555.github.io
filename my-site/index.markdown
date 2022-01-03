@@ -165,6 +165,7 @@ layout: home
   * [Hong Kong University (HKU)](https://zliao555.github.io/my-site/hku)
   * [City University of Hong Kong (CityU)](https://zliao555.github.io/my-site/cityu)
   * [Hong Kong Polytechnic University (HKPU)](https://zliao555.github.io/my-site/polyu)
+  * [Hong Kong University of Science and Technology (HKUST)](https://zliao555.github.io/my-site/hkust)
   
   ---
   
