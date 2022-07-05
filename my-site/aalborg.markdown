@@ -29,6 +29,16 @@ No. 2 in Electrical and Electronic Engineering
 其中1，3，5与电力电子最为相关。
 
 ---
+2022 人事变动
+
+1. Yongheng Yang 离职AAU，加入ZJU
+2. Qian Wang 老师也离职回国了
+3. Haoran Wang 离职AAU
+4. Liu Zhou 老师好像离职，加入Simens了
+
+
+
+
 
 
 [Frede Blaabjerg](https://vbn.aau.dk/en/persons/101000)
@@ -115,6 +125,8 @@ Assoc. professor。 研究方向是电力电子变换器的EMI建模和分析，
 
 [Yongheng Yang](https://vbn.aau.dk/en/persons/125006)
 
+现已加入浙大
+
  Assoc. professor。 研究方向是光伏逆变器的控制和可靠性分析，硬件和软件都做，涉及的方面非常宽泛，几乎每个学生的研究方向都不相同。他前几年主要和Frede一起带学生，这几年来也开始独立带博士，组内中国学生较多，要求比较严格，学术产出也比较高。组内大部分学生都是CSC资助，据说今年有优秀的学生获得了项目资助。
 
 ---
@@ -139,6 +151,8 @@ Assis. Professor。研究方向是风电变流器的可靠性分析，主要和F
 ---
 
 [Haoran Wang](https://vbn.aau.dk/en/persons/136642)
+
+已离职回国创业
 
 Assis. Professor。 研究方向是电容的可靠性分析以及有源电容变换器，目前和Huai Wang老师一起带学生，思维敏捷，动手能力强，对学生非常nice。自己还在搭台子做试验等。
 
@@ -174,6 +188,7 @@ Assis. Professor。
 
 [Qian Wang](https://vbn.aau.dk/en/persons/135716)
 
+已经离职回国
 Assis. Professor
 研究方向是偏重电力系统高压绝缘这块，属于电力系统组。近几年也在涉及与电力电子结合的课题研究，例如中压电力电子器件中的绝缘和老化问题，局部放电的测量等。平易近人且非常nice。
 
