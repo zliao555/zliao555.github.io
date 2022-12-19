@@ -19,8 +19,14 @@ Virginia Polytechnic Institute and State University (VT)
 
 [Dushan Boroyevic](https://cpes.vt.edu/people/faculty/89)
 
-美国工程院院士，IEEE Fellow，1986 年 PhD@VT，Fred Lee的学生，目前CPES的Director，曾任 IEEE Power Electronics Society (PELS)的主席，2007 Newell奖得主，研究领域主要是电网，新能源系统，新器件应用，电动汽车等。人非常 nice。现在应该不招新学生了。 
+美国工程院院士，IEEE Fellow，1986 年 PhD@VT，Fred Lee的学生，曾任 IEEE Power Electronics Society (PELS)的主席，2007 Newell奖得主，研究领域主要是电网，新能源系统，新器件应用，电动汽车等。人非常 nice。现在应该不招新学生了。 
 
+
+---
+
+[Richard Zhang](https://cpes.vt.edu/people/faculty/5957)
+
+IEEE Fellow，1998 年 PhD@VT，Fred Lee的学生，清华大学校友。在GE工作22年，曾任GE Grid Integration Solutions的CTO并领导很多国际项目和国际团队，有非常丰富的工业界经验。2021年加入VT，人很nice。研究方向有MVDC/HVDC，FACTS，电动汽车快速充电桩，可再生能源，储能等等。
 
 ---
 
@@ -39,13 +45,13 @@ IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要
 
 [Rolando Burgos](https://cpes.vt.edu/people/faculty/1259)
 
-大 AP，智利人，2002 年 PhD@University of Concepcion，智利土博，但是之后在 VT 读了博后，曾在 ABB 工作三年。现在的CPES director。研究领域主要为电网，新能源系统等，目前和Dushan 一个组，自己招学生，同时也帮 Dushan 带学生，人很 nice。 
+智利人，2002 年 PhD@University of Concepcion，智利土博，但是之后在 VT 读了博后，曾在 ABB 工作三年。现在的CPES director。研究领域主要为电网，新能源系统等，目前和Dushan 一个组，自己招学生，同时也帮 Dushan 带学生，人很 nice。 
 
 ---
 
 [Qiang Li](https://cpes.vt.edu/people/faculty/1703)
 
-小 AP，2011 年 PhD@VT，Fred Lee 的学生，浙江大学校友，研究领域主要为高功率密度变换器，新器件应用，电力电子功率集成，磁性元件设计等，人很 nice，面试用中文。和Fred Lee 在一个组。 
+大 AP，2011 年 PhD@VT，Fred Lee 的学生，浙江大学校友，研究领域主要为高功率密度变换器，新器件应用，电力电子功率集成，磁性元件设计等，人很 nice，面试用中文。和Fred Lee 在一个组。 
 
 ---
 
@@ -70,15 +76,13 @@ IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要
 
 [Ali Mehrizi-Sani](https://eecs.wsu.edu/~mehrizi/)
 
-大 AP，伊朗人，2011 年 PhD@UofT，Iravani 的学生，曾在WSU 任教，于 2019 年加入 VT。研究领域主要为电网，FACTS，新能源系统等，偏 PS。其名下实验室：Laboratory for Integration of Power Electronics (LIPE)，仅有的几个学生都是伊朗人。 
-Yuhao Zhang：小 AP，2017 年 PhD@MIT，北京大学校友，于 2018 年加入 VT。研究领域为 GaN 器件本体。 
+大 AP，伊朗人，2011 年 PhD@UofT，Iravani 的学生，曾在WSU 任教，于 2019 年加入 VT。研究领域主要为电网，FACTS，新能源系统等，偏 PS。其名下实验室：Laboratory for Integration of Power Electronics (LIPE)，仅有的几个学生都是伊朗人。  
 
 ---
 
 [Yuhao Zhang](https://cpes.vt.edu/people/faculty/3886)
 
-小 AP 2017年 PhD@MIT，北京大学校友，于 2018年加入 VT。
-研究领域为 GaN器件本体。
+小 AP 2017年 PhD@MIT，北京大学校友，于 2018年加入 VT。研究领域为 GaN器件本体。
 
 ---
 
