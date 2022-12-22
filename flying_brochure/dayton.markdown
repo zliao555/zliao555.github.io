@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Dayton (UD)
-permalink: /my-site/dayton
+permalink: /flying-brochure/dayton
 ---
 # University of Dayton (UD)
 

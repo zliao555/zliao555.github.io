@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Memorial University of Newfoundland (MUN)
-permalink: /my-site/MUN
+permalink: /flying-brochure/MUN
 ---
 # Memorial University of Newfoundland
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Northeastern Univeristy (NEU)
-permalink: /my-site/neu
+permalink: /flying-brochure/neu
 ---
 # Northeastern University
 

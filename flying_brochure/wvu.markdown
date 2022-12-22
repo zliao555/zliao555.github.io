@@ -1,7 +1,7 @@
 ---
 layout: page
 title: West Virginia University (WVU)
-permalink: /my-site/wvu
+permalink: /flying-brochure/wvu
 ---
 # West Virginia University
 在 Power 方面拥有悠久传统，PS 和 PE 都有一定规模，有一个 Power 的研究中心 APERC：

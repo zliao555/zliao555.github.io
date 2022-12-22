@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stanford University
-permalink: /my-site/stanford
+permalink: /flying-brochure/stanford
 ---
 # Stanford University
 

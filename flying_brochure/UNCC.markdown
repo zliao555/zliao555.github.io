@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of North Carolina, Charlotte (UNCC)
-permalink: /my-site/UNCC
+permalink: /flying-brochure/UNCC
 ---
 # University of North Carolina, Charlotte (UNCC)
 

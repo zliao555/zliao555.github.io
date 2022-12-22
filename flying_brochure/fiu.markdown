@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Florida International University (FIU)
-permalink: /my-site/fiu
+permalink: /flying-brochure/fiu
 ---
 # Florida International University
 [Osama A. Mohammed](https://energy.fiu.edu/about/contact/)

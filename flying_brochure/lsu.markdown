@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Louisiana State University (LSU)
-permalink: /my-site/lsu
+permalink: /flying-brochure/lsu
 ---
 # Louisiana State University (LSU)
 

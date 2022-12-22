@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Houston (UH)
-permalink: /my-site/UH
+permalink: /flying-brochure/UH
 ---
 # University of Houston (UH)
 

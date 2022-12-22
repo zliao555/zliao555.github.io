@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Tennessee, Knoxville
-permalink: /my-site/utk
+permalink: /flying-brochure/utk
 ---
 # University of Tennessee, Knoxville
 

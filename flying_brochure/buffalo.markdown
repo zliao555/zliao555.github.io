@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University at Buffalo, SUNY (UB)
-permalink: /my-site/buffalo
+permalink: /flying-brochure/buffalo
 ---
 # University at Buffalo, SUNY (UB)
 

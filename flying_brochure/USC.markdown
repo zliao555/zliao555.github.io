@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of South Carolina (USC)
-permalink: /my-site/USC
+permalink: /flying-brochure/USC
 ---
 # University of South Carolina (USC)
 

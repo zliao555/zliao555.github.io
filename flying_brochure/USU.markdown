@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Utah State University (USU)
-permalink: /my-site/USU
+permalink: /flying-brochure/USU
 ---
 # Utah State University (USU)
 

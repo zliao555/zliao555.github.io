@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Wisconsin, Madison
-permalink: /my-site/uwmadison
+permalink: /flying-brochure/uwmadison
 ---
 # University of Wisconsin, Madison
 

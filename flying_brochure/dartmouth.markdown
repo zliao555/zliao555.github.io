@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dartmouth College 
-permalink: /my-site/dartmouth
+permalink: /flying-brochure/dartmouth
 ---
 # Dartmouth College 
 

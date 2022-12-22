@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Oxford
-permalink: /my-site/Oxford
+permalink: /flying-brochure/Oxford
 ---
 # Oxford
 

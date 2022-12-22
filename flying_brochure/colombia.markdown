@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colombia University
-permalink: /my-site/colombia
+permalink: /flying-brochure/colombia
 ---
 # Colombia University
 

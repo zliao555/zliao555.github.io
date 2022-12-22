@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Purdue University (Purdue)
-permalink: /my-site/purdue
+permalink: /flying-brochure/purdue
 ---
 # Purdue University
 

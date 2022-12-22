@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drexel University
-permalink: /my-site/drexel
+permalink: /flying-brochure/drexel
 ---
 # Drexel University
 

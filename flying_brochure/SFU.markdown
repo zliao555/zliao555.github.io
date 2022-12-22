@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simon Fraser University (SFU)
-permalink: /my-site/SFU
+permalink: /flying-brochure/SFU
 ---
 # Simon Fraser University
 

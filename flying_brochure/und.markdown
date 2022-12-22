@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of North Dakota (UND)
-permalink: /my-site/und
+permalink: /flying-brochure/und
 ---
 # University of North Dakota
 [Hossein Salehfar](https://und.edu/directory/h.salehfar)

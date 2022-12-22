@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Auburn University (Auburn)
-permalink: /my-site/Auburn
+permalink: /flying-brochure/Auburn
 ---
 # Auburn University (Auburn)
 

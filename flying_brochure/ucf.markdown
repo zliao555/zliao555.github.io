@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Central Florida (UCF)
-permalink: /my-site/ucf
+permalink: /flying-brochure/ucf
 ---
 # University of Central Florida
 [Issa Batarseh](http://fpec.ucf.edu/people/docs/Resume%20Batarseh%20Jan%202016.pdf)

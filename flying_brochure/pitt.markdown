@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Pittsburgh
-permalink: /my-site/pitt
+permalink: /flying-brochure/pitt
 ---
 # University of Pittsburgh
 

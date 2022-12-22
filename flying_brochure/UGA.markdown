@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Georgia (UGA)
-permalink: /my-site/UGA
+permalink: /flying-brochure/UGA
 ---
 # University of Georgia (UGA)
 

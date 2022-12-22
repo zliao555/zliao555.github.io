@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New York University
-permalink: /my-site/nyu
+permalink: /flying-brochure/nyu
 ---
 # New York University
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of California, San Diego (UCSD)
-permalink: /my-site/UCSD
+permalink: /flying-brochure/UCSD
 ---
 # University of California, San Diego (UCSD)
 

@@ -1,8 +1,14 @@
 ---
 layout: page
 title: updates
-permalink: /my-site/updates
+permalink: /flying-brochure/updates
 ---
+
+# 2022 更新
+
+**新老师**
+[Xin Zan](https://zliao555.github.io/flying-brochure/umd) University of Maryland
+[Lei Gu] University of Pennsylvania
 
 ---
 # 2021 更新
@@ -11,17 +17,17 @@ permalink: /my-site/updates
 [Ron Hui] HKU to Nanyang Tech
 
 **新老师**
-[Mike Ranjram](https://zliao555.github.io/my-site/asu) Arizona State
-[Chaoqiang Jiang](https://zliao555.github.io/my-site/cityu) HK City U
-[Wei Han](https://zliao555.github.io/my-site/hkust) HKUST
+[Mike Ranjram](https://zliao555.github.io/flying-brochure/asu) Arizona State
+[Chaoqiang Jiang](https://zliao555.github.io/flying-brochure/cityu) HK City U
+[Wei Han](https://zliao555.github.io/flying-brochure/hkust) HKUST
 
 ---
 # 2020更新
 
 **跳槽**
 
-* [Fang Luo](https://zliao555.github.io/my-site/stony), UArkansas to Stony Brook University.
-* [Jun Wang](https://zliao555.github.io/my-site/nebraska), VT to University of Nebraska-Lincoln
+* [Fang Luo](https://zliao555.github.io/flying-brochure/stony), UArkansas to Stony Brook University.
+* [Jun Wang](https://zliao555.github.io/flying-brochure/nebraska), VT to University of Nebraska-Lincoln
 
 **新老师**
 

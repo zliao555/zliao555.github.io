@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Maryland, College Park (UMD)
-permalink: /my-site/umd
+permalink: /flying-brochure/umd
 ---
 # University of Maryland, College Park
 

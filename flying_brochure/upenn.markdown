@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Pennsylvania
-permalink: /my-site/upenn
+permalink: /flying-brochure/upenn
 ---
 # University of Pennsylvania
 

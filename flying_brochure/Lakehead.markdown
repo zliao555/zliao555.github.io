@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lakehead University (Lakehead)
-permalink: /my-site/Lakehead
+permalink: /flying-brochure/Lakehead
 ---
 # Lakehead University
 

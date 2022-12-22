@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Bath, UK
-permalink: /my-site/Bath-uk
+permalink: /flying-brochure/Bath-uk
 ---
 # University of Bath
 

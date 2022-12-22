@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Minnesota, Twin Cities (UMN)
-permalink: /my-site/umn
+permalink: /flying-brochure/umn
 ---
 # University of Minnesota, Twin Cities
 

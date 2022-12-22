@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Texas, Austin
-permalink: /my-site/utaustin
+permalink: /flying-brochure/utaustin
 ---
 # University of Texas, Austin
 

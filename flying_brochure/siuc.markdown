@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Southern Illinois University, Carbondale (SIUC)
-permalink: /my-site/siuc
+permalink: /flying-brochure/siuc
 ---
 # Southern Illinois University, Carbondale
 [Constantine J. Hatziadoniu](https://sites.google.com/a/siu.edu/constantinehatziadoniu/)

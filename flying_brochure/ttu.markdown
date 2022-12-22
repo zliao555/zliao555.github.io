@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Texas Tech University (TTU)
-permalink: /my-site/ttu
+permalink: /flying-brochure/ttu
 ---
 # Texas Tech University (TTU)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Massachusetts, Lowell (UML)
-permalink: /my-site/uml
+permalink: /flying-brochure/uml
 ---
 # University of Massachusetts, Lowell (UML)
 

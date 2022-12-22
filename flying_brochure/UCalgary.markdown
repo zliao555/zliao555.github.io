@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Calgary (UCalgary)
-permalink: /my-site/UCalgary
+permalink: /flying-brochure/UCalgary
 ---
 # University of Calgary
 

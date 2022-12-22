@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Cambridge, UK
-permalink: /my-site/ucam-uk
+permalink: /flying-brochure/ucam-uk
 ---
 # University of Cambridge
 

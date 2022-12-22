@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Kentucky (UKY)
-permalink: /my-site/uky
+permalink: /flying-brochure/uky
 ---
 # University of Kentucky (UKY)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eindhoven University of Technology
-permalink: /my-site/TUEindhove
+permalink: /flying-brochure/TUEindhove
 ---
 # Eindhoven University of Technology
 

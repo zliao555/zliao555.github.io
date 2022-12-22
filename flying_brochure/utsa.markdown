@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Texas, San Antonio (UTSA)
-permalink: /my-site/utsa
+permalink: /flying-brochure/utsa
 ---
 # University of Texas, San Antonio
 [Debaditya Chakraborty](http://texasenergy.utsa.edu/faculty/hariharan-krishnaswami-phd/)

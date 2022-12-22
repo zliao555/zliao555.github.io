@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Georgia Institute of Technology
-permalink: /my-site/gatech
+permalink: /flying-brochure/gatech
 ---
 # Georgia Institute of Technology
 

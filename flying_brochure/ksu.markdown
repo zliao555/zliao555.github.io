@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kansas State University (KSU)
-permalink: /my-site/ksu
+permalink: /flying-brochure/ksu
 ---
 # Kansas State University (KSU)
 

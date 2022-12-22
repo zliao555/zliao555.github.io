@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Illinois Institute of Technology (IIT)
-permalink: /my-site/iit
+permalink: /flying-brochure/iit
 ---
 # Illinois Institute of Technology
 

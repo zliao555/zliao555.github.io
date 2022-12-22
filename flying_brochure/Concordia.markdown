@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Concordia University (Concordia)
-permalink: /my-site/Concordia
+permalink: /flying-brochure/Concordia
 ---
 # Concordia University
 

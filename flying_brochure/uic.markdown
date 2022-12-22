@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Illinois, Chicago (UIC)
-permalink: /my-site/uic
+permalink: /flying-brochure/uic
 ---
 # University of Illinois, Chicago (UIC)
 

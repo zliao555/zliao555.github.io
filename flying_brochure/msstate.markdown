@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mississippi State University (Msstate)
-permalink: /my-site/msstate
+permalink: /flying-brochure/msstate
 ---
 # Mississippi State University
 [Seungdeog Choi](https://www.ece.msstate.edu/people/faculty/dr-seungdeog-choi/)

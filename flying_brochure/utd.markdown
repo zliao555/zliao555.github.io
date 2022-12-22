@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Texas, Dallas (UTD)
-permalink: /my-site/utd
+permalink: /flying-brochure/utd
 ---
 # University of Texas, Dallas
 

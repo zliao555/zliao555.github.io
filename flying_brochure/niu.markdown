@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Northern Illinois University (NIU)
-permalink: /my-site/niu
+permalink: /flying-brochure/niu
 ---
 # Northern Illinois University
 [Liping Guo](https://www.niu.edu/ceet/about/faculty-and-instructors/guo-liping.shtml)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Washington (UW)
-permalink: /my-site/uw
+permalink: /flying-brochure/uw
 ---
 # University of Washington
 

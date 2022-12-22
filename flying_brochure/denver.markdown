@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Denver
-permalink: /my-site/denver
+permalink: /flying-brochure/denver
 ---
 # University of Denver
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Texas, Arlington (UTA)
-permalink: /my-site/uta
+permalink: /flying-brochure/uta
 ---
 # University of Texas, Arlington (UTA)
 

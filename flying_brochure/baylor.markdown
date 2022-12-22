@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Baylor University (Baylor)
-permalink: /my-site/baylor
+permalink: /flying-brochure/baylor
 ---
 # Baylor University (Baylor)
 

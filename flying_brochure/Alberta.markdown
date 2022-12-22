@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Alberta (Alberta)
-permalink: /my-site/Alberta
+permalink: /flying-brochure/Alberta
 ---
 # University of Alberta
 

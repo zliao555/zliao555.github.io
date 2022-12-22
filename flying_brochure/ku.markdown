@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kansas University (KU)
-permalink: /my-site/ku
+permalink: /flying-brochure/ku
 ---
 # Kansas University (KU)
 

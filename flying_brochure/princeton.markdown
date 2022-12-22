@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Princeton University
-permalink: /my-site/princeton
+permalink: /flying-brochure/princeton
 ---
 # Princeton University
 ---

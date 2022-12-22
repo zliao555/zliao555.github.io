@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ohio State University, Columbus
-permalink: /my-site/ohio-state
+permalink: /flying-brochure/ohio-state
 ---
 # Ohio State University, Columbus
 

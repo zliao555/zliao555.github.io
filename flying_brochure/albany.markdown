@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University at Albany, SUNY (Albany)
-permalink: /my-site/albany
+permalink: /flying-brochure/albany
 ---
 # University at Albany, SUNY (Albany)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of California, Santa Cruz (UCSC)
-permalink: /my-site/UCSC
+permalink: /flying-brochure/UCSC
 ---
 # University of California, Santa Cruz (UCSC)
 

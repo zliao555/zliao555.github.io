@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Alabama (UA)
-permalink: /my-site/UA
+permalink: /flying-brochure/UA
 ---
 # University of Alabama (UA)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Nebraska, Lincoln (UNL)
-permalink: /my-site/nebraska
+permalink: /flying-brochure/nebraska
 ---
 # University of Nebraska, Lincoln 
 

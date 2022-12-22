@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rensselaer Polytechnic Institute (RPI)
-permalink: /my-site/rpi
+permalink: /flying-brochure/rpi
 ---
 # Rensselaer Polytechnic Institute
 

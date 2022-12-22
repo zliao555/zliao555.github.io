@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Florida (UF)
-permalink: /my-site/uf
+permalink: /flying-brochure/uf
 ---
 # University of Florida
 

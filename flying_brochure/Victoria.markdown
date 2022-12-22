@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Victoria (Victoria)
-permalink: /my-site/Victoria
+permalink: /flying-brochure/Victoria
 ---
 # University of Victoria
 

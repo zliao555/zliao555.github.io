@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Windsor (Windsor)
-permalink: /my-site/Windsor
+permalink: /flying-brochure/Windsor
 ---
 # University of Windsor
 

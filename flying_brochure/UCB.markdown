@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of California, Berkeley 
-permalink: /my-site/ucb
+permalink: /flying-brochure/ucb
 ---
 # University of California, Berkeley 
 

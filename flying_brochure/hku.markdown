@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The University of Hong Kong
-permalink: /my-site/hku
+permalink: /flying-brochure/hku
 ---
 # The University of Hong Kong
 

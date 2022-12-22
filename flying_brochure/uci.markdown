@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of California, Irvine (UCI)
-permalink: /my-site/uci
+permalink: /flying-brochure/uci
 ---
 # University of California, Irvine
 

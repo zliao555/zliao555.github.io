@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Sheffield, UK
-permalink: /my-site/sheff-uk
+permalink: /flying-brochure/sheff-uk
 ---
 # University of Sheffield
 

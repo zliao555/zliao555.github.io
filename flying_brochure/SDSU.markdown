@@ -1,7 +1,7 @@
 ---
 layout: page
 title: San Diego State University (SDSU)
-permalink: /my-site/SDSU
+permalink: /flying-brochure/SDSU
 ---
 # San Diego State University (SDSU)
 

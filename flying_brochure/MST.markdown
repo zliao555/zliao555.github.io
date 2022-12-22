@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Missouri University of Science and Technology (MST)
-permalink: /my-site/MST
+permalink: /flying-brochure/MST
 ---
 # Missouri University of Science and Technology (MST)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of New Brunswick (Brunswick)
-permalink: /my-site/Brunswick
+permalink: /flying-brochure/Brunswick
 ---
 # University of New Brunswick
 

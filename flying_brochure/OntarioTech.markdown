@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ontario Tech University (OntarioTech)
-permalink: /my-site/OntarioTech
+permalink: /flying-brochure/OntarioTech
 ---
 # Ontario Tech University
 

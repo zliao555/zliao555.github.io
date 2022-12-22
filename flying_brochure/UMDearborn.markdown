@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Michigan, Dearborn (UM-Dearborn)
-permalink: /my-site/UMDearborn
+permalink: /flying-brochure/UMDearborn
 ---
 # University of Michigan, Dearborn (UM-Dearborn)
 

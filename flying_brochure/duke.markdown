@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duke University
-permalink: /my-site/duke
+permalink: /flying-brochure/duke
 ---
 # Duke University
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Missouri, Columbia (Missouri)
-permalink: /my-site/missouri
+permalink: /flying-brochure/missouri
 ---
 # University of Missouri, Columbia (Missouri)
 

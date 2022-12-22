@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temple University
-permalink: /my-site/temple
+permalink: /flying-brochure/temple
 ---
 # Temple University
 

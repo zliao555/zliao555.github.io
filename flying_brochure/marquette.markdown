@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marquette University
-permalink: /my-site/marquette
+permalink: /flying-brochure/marquette
 ---
 # Marquette University
 

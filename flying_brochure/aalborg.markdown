@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AAlborg University (AAU)
-permalink: /my-site/AAU
+permalink: /flying-brochure/AAU
 ---
 # Aalborg University
 

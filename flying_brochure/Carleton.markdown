@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carleton University (Carleton)
-permalink: /my-site/Carleton
+permalink: /flying-brochure/Carleton
 ---
 # Carleton University
 

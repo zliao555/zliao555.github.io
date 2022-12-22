@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hong Kong University of Science and Technology
-permalink: /my-site/hkust
+permalink: /flying-brochure/hkust
 ---
 # Hong Kong University of Science and Technology
 

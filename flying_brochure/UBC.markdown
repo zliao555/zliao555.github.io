@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of British Columbia (UBC)
-permalink: /my-site/ubc
+permalink: /flying-brochure/ubc
 ---
 # University of British Columbia
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Massachusetts Institute of Technology (MIT)
-permalink: /my-site/mit
+permalink: /flying-brochure/mit
 ---
 # Massachusetts Institute of Technology
 

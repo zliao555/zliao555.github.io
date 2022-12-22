@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of California, Los Angeles (UCLA)
-permalink: /my-site/ucla
+permalink: /flying-brochure/ucla
 ---
 # University of California, Los Angeles
 

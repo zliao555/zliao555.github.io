@@ -1,6 +1,6 @@
 ---
 layout: page
 title: University of Birmingham, UK
-permalink: /my-site/Birmingham-uk
+permalink: /flying-brochure/Birmingham-uk
 ---
 # University of Birmingham

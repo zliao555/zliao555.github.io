@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clarkson University (Clarkson)
-permalink: /my-site/clarkson
+permalink: /flying-brochure/clarkson
 ---
 # Clarkson University (Clarkson)
 

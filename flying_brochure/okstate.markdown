@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oklahoma State University (OkState)
-permalink: /my-site/okstate
+permalink: /flying-brochure/okstate
 ---
 # Oklahoma State University (OkState)
 

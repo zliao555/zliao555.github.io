@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of York
-permalink: /my-site/uofyork
+permalink: /flying-brochure/uofyork
 ---
 # University of York
 

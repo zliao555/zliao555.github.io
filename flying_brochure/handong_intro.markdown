@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 涵东的序
-permalink: /my-site/handong_intro
+permalink: /flying-brochure/handong_intro
 ---
 # 涵东的序
 

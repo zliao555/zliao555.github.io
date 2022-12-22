@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Wisconsin, Milwaukee (UWM)
-permalink: /my-site/uwmil
+permalink: /flying-brochure/uwmil
 ---
 # University of Wisconsin, Milwaukee 
 [Adel Nasiri](https://uwm.edu/engineering/people/nasiri-ph-d-adel/)

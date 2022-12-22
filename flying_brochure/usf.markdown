@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of South Florida (USF)
-permalink: /my-site/usf
+permalink: /flying-brochure/usf
 ---
 # University of South Florida
 [Lingling Fan](https://www.usf.edu/engineering/ee/documents/fanupdated.pdf)

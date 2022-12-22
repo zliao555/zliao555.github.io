@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cornell
-permalink: /my-site/cornell
+permalink: /flying-brochure/cornell
 ---
 # Cornell University 
 

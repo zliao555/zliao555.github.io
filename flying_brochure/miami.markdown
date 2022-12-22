@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miami University, Oxford
-permalink: /my-site/miami
+permalink: /flying-brochure/miami
 ---
 # Miami University, Oxford
 

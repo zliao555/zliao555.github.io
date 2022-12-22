@@ -1,7 +1,7 @@
 ---
 layout: page
 title: McMaster University (Mac)
-permalink: /my-site/Mac
+permalink: /flying-brochure/Mac
 ---
 # McMaster University
 

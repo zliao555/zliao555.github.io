@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Michigan Technological University (MTU)
-permalink: /my-site/mtu
+permalink: /flying-brochure/mtu
 ---
 # Michigan Technological University (MTU)
 

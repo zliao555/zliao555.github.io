@@ -1,7 +1,7 @@
 ---
 layout: page
 title: George Washington University
-permalink: /my-site/gwu
+permalink: /flying-brochure/gwu
 ---
 # George Washington University
 

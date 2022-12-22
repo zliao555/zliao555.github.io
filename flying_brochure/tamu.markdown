@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Texas A&M University
-permalink: /my-site/tamu
+permalink: /flying-brochure/tamu
 ---
 # Texas A&M University
 

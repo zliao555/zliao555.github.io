@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pennsylvania State University
-permalink: /my-site/psu
+permalink: /flying-brochure/psu
 ---
 # Pennsylvania State University
 

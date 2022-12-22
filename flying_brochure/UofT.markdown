@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Toronto (UofT)
-permalink: /my-site/UofT
+permalink: /flying-brochure/UofT
 ---
 # University of Toronto
 

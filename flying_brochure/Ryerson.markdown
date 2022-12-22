@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryerson University (Ryerson)
-permalink: /my-site/Ryerson
+permalink: /flying-brochure/Ryerson
 ---
 # Ryerson University
 

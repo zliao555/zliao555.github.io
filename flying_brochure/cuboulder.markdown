@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Colorado, Boulder
-permalink: /my-site/cuboulder
+permalink: /flying-brochure/cuboulder
 ---
 
 # University of Colorado, Boulder

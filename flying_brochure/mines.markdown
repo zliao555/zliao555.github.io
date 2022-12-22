@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colorado School of Mines (Mines)
-permalink: /my-site/mines
+permalink: /flying-brochure/mines
 ---
 # Colorado School of Mines (Mines)
 

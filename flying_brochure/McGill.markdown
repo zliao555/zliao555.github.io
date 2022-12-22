@@ -1,7 +1,7 @@
 ---
 layout: page
 title: McGill University (McGill)
-permalink: /my-site/McGill
+permalink: /flying-brochure/McGill
 ---
 # McGill University
 

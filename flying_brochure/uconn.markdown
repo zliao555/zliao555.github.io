@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Connecticut
-permalink: /my-site/uconn
+permalink: /flying-brochure/uconn
 ---
 # University of Connecticut
 

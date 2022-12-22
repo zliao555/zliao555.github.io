@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stony Brook
-permalink: /my-site/stony
+permalink: /flying-brochure/stony
 ---
 # Stony Brook University
 

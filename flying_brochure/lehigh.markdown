@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lehigh University
-permalink: /my-site/lehigh
+permalink: /flying-brochure/lehigh
 ---
 # Lehigh University
 

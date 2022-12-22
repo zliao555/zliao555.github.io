@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Nevada, Reno (UNR)
-permalink: /my-site/unr
+permalink: /flying-brochure/unr
 ---
 # University of Nevada, Reno
 [Sustainable energy and smart grid research](https://www.unr.edu/ebme/research)

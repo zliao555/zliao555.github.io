@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tufts University
-permalink: /my-site/tufts
+permalink: /flying-brochure/tufts
 ---
 # Tufts University
 

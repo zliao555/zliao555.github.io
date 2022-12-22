@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Florida State University (FSU)
-permalink: /my-site/fsu
+permalink: /flying-brochure/fsu
 ---
 # Florida State University
 

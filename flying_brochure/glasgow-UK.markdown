@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Glasgow, UK
-permalink: /my-site/glasgow-uk
+permalink: /flying-brochure/glasgow-uk
 ---
 # University of Glasgow
 

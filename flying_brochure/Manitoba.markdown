@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Manitoba (Manitoba)
-permalink: /my-site/Manitoba
+permalink: /flying-brochure/Manitoba
 ---
 # University of Manitoba
 

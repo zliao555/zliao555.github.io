@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Bristol, UK
-permalink: /my-site/bristol-UK
+permalink: /flying-brochure/bristol-UK
 ---
 # University of Bristol
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arizona State University (ASU)
-permalink: /my-site/asu
+permalink: /flying-brochure/asu
 ---
 # Arizona State University
 
