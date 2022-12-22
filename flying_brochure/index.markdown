@@ -150,6 +150,7 @@ layout: home
   * [Aalborg University (AAU)](https://zliao555.github.io/flying-brochure/AAU)
   * ETH Zurich (ETH)
   * Technical University of Denmark (DTU)
+  * [Eindhoven University of Technology](https://zliao555.github.io//flying-brochure/TUEindhove)
   
   ---
   

@@ -5,7 +5,7 @@ permalink: /flying-brochure/TUEindhove
 ---
 # Eindhoven University of Technology
 
-##EPE(Electromechanics and Power Electronics)组
+* EPE(Electromechanics and Power Electronics)组
 [Elena A. Lomonova](https://research.tue.nl/en/persons/elena-a-lomonova) (Full Professor, EPE)
 EPE组Research Chair, 1993年 Ph.D. @Moscow Aviation Institute - (State University of Aerospace Technology), Russia。主要研究领域为电机设计，涉及磁场分布计算、电机制动、平板直线电机等。
 课题组老大。组里行政上面归他管，在电机，磁学方面本领强，但是电力电子上一般般。
@@ -67,7 +67,7 @@ Dave C.J. Krop （Assistant Professor, EPE）
 
 ---
 
-##EES(Electrical Energy System)组
+* EES(Electrical Energy System)组
 
 [Korneel Wijnands](https://www.tue.nl/en/research/researchers/korneel-wijnands/) (Full Professor, EES)
 Korneel Wijnands 是TU/e EES组的Full Professor，是浦卓公司的技术主管，在TU/e 做兼职教授，每周来学校工作一天。主要研究方向为高频拓扑以及电源转换器的可靠性和寿命。他手里工业项目很多，与产业结合紧密，为人口碑很好。
