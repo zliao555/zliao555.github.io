@@ -33,13 +33,8 @@ No. 2 in Electrical and Electronic Engineering
 
 1. Yongheng Yang 离职AAU，加入ZJU
 2. Qian Wang 老师也离职回国了
-3. Haoran Wang 离职AAU
-4. Liu Zhou 老师好像离职，加入Simens了
-
-
-
-
-
+3. Haoran Wang 离职, 回国创业
+4. Liu Zhou 老师离职，加入Simens了
 
 [Frede Blaabjerg](https://vbn.aau.dk/en/persons/101000)
 
