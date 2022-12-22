@@ -12,10 +12,16 @@ layout: home
 
 目前我们希望在涵东原有手册的基础上，增加更多国家地区的学校，更多power system老师的信息，以及涵东提到的，增加学生就业情况及工业界分布的信息等。
 
+---
+
 网站现在由位于世界各地的志愿者维护。如果您对网站内容有修改意见，或者想加入我们的志愿者团队，请联系（liaozitao@gmail.com）
 
 ---
+* 2022更新
 
+为了便于维护 将网站重新改为markdown 格式。如果您想更新某个markdown文件，最好的办法是create new pull request， 然后更改这个文件。这样merge之后改变会马上显示到网站上
+
+---
 * [纪念涵东](https://handonggui.github.io/)
 * [涵东的序](https://zliao555.github.io/flying-brochure/handong_intro)
 * [更新记录 (新老师，跳槽等)](https://zliao555.github.io/flying-brochure/updates)
