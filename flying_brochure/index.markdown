@@ -30,6 +30,20 @@ layout: home
 * [涵东的序](https://zliao555.github.io/flying-brochure/handong_intro)
 * [更新记录 (新老师，跳槽等)](https://zliao555.github.io/flying-brochure/updates)
 
+---
+* **工作板块**
+
+全新板块，欢迎各位联系liaozitao@gmail.com更新各公司信息。由于公司信息相对于学校会比较敏感，写的会比较概括。如果需要详细信息，可以联系愿意提供信息的相对应公司员工
+
+*[Tesla](https://zliao555.github.io/flying-brochure/tesla)
+*[google](https://zliao555.github.io/flying-brochure/google)
+*[apple](https://zliao555.github.io/flying-brochure/apple)
+*[MPS](https://zliao555.github.io/flying-brochure/mps)
+*[Texas Instruments](https://zliao555.github.io/flying-brochure/ti)
+
+
+
+
 * **USA**
   * [Massachusetts Institute of Technology (MIT)](https://zliao555.github.io/flying-brochure/mit)
   * [Stanford University (Stanford)](https://zliao555.github.io/flying-brochure/stanford)
