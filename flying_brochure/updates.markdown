@@ -8,7 +8,10 @@ permalink: /flying-brochure/updates
 
 **新老师**
 [Xin Zan](https://zliao555.github.io/flying-brochure/umd) University of Maryland
+
 [Lei Gu](https://zliao555.github.io/flying-brochure/upenn) University of Pennsylvania
+
+[Jessica Boles](https://www2.eecs.berkeley.edu/Faculty/Homepages/boles.html) University of California, Berkeley
 
 **跳槽**
 [Qin Lei] ASU to Tesla
@@ -21,7 +24,9 @@ permalink: /flying-brochure/updates
 
 **新老师**
 [Mike Ranjram](https://zliao555.github.io/flying-brochure/asu) Arizona State
+
 [Chaoqiang Jiang](https://zliao555.github.io/flying-brochure/cityu) HK City U
+
 [Wei Han](https://zliao555.github.io/flying-brochure/hkust) HKUST
 
 ---
@@ -29,7 +34,8 @@ permalink: /flying-brochure/updates
 
 **跳槽**
 
-* [Fang Luo](https://zliao555.github.io/flying-brochure/stony), UArkansas to Stony Brook University.
+* [Fang Luo](https://zliao555.github.io/flying-brochure/stony), UArkansas to Stony Brook University
+
 * [Jun Wang](https://zliao555.github.io/flying-brochure/nebraska), VT to University of Nebraska-Lincoln
 
 **新老师**
