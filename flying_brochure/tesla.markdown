@@ -11,19 +11,19 @@ Tesla 作为电动车以及新能源储能的龙头企业，对于power electron
 
 **PE hardware design
 
-*Vehicle drive inverter
+* Vehicle drive inverter
 
 负责所有电车上的drive inverter硬件设计
 
-*charger
+* charger
 
 负责所有电车充电器ac-dc, dcdc等硬件设计
 
-*residential hardware design
+* residential hardware design
 
 负责powerwall 逆变器及dcdc硬件设计
 
-*industrial hardware design
+* industrial hardware design
 
 负责megapack，MWh级别工业储能逆变器设计
 
@@ -31,7 +31,7 @@ Tesla 作为电动车以及新能源储能的龙头企业，对于power electron
 
 **Power electronics and microgrid system control
 
-负责chager，powerwall，industrial 所有power electronics hardware control，以及microgrid 级别的control。不负责硬件设计，但是对coding能力有一定要求，最好有dsp control的相关经验
+负责chager，powerwall，industrial 所有power electronics hardware control，以及microgrid 级别的control。不负责硬件设计，对控制理论，比如环路分析，数字控制，与coding能力有一定要求，最好有dsp control的相关经验
 
 
 
