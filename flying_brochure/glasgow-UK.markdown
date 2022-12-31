@@ -8,7 +8,7 @@ permalink: /flying-brochure/glasgow-uk
 
 [Jin Yang](https://www.gla.ac.uk/schools/engineering/staff/jinyang/)
 
-IEEE Senior Member，2011年PhD毕业。
+Reader（英国体系下准教授），IEEE Senior Member，2011年PhD毕业。
 
 Dr Jin Yang’s research focus is the power distribution network analysis, operation and control considering high penetration of distributed renewable power generation and increasing storage (including electric vehicles and V2G) interfaced via power electronics.
 
