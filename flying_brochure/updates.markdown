@@ -8,7 +8,10 @@ permalink: /flying-brochure/updates
 
 **新老师**
 [Xin Zan](https://zliao555.github.io/flying-brochure/umd) University of Maryland
-[Lei Gu] University of Pennsylvania
+[Lei Gu](https://zliao555.github.io/flying-brochure/upenn) University of Pennsylvania
+
+**跳槽**
+[Qin Lei] ASU to Tesla
 
 ---
 # 2021 更新
