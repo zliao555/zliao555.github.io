@@ -32,6 +32,12 @@ IEEE Fellow, 1989年 PhD@MIT，研究领域主要为高功率密度
 
 ---
 
+[Jessica Boles](https://www2.eecs.berkeley.edu/Faculty/Homepages/boles.html)
+
+小AP，2022年PhD@MIT。Perreault的学生。主攻piezoelectric-based power electronics。
+
+---
+
 [Scott Moura](https://ce.berkeley.edu/people/faculty/moura)
 
 小 AP。 2011年 PhD@Umich，隶属于 CEE而不是 EE，研究领域

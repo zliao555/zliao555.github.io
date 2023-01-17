@@ -14,7 +14,17 @@ layout: home
 
 ---
 
-网站现在由位于世界各地的志愿者维护。如果您对网站内容有修改意见，或者想加入我们的志愿者团队，请联系（liaozitao@gmail.com）
+网站现在由位于世界各地的志愿者维护:
+
+更新美国学校的信息请联系（liaozitao@gmail.com）
+
+更新加拿大学校的信息，请联系（wangd117@mcmaster.ca）
+
+更新欧洲大陆国家学校的信息，请联系（Yi.dou@outlook.com）
+
+更新英国学校的信息，请联系（caulcw@outlook.com）
+
+如果想加入我们的志愿者团队，请联系（liaozitao@gmail.com）
 
 ---
 * 2022更新
@@ -25,6 +35,20 @@ layout: home
 * [纪念涵东](https://handonggui.github.io/)
 * [涵东的序](https://zliao555.github.io/flying-brochure/handong_intro)
 * [更新记录 (新老师，跳槽等)](https://zliao555.github.io/flying-brochure/updates)
+
+---
+## **工作板块**
+
+全新板块，欢迎各位联系liaozitao@gmail.com更新各公司信息。由于公司信息相对于学校会比较敏感，写的会比较概括。如果需要详细信息，可以联系愿意提供信息的相对应公司员工
+* **USA**
+  * [Tesla](https://zliao555.github.io/flying-brochure/tesla)
+  * [google](https://zliao555.github.io/flying-brochure/google)
+  * [apple](https://zliao555.github.io/flying-brochure/apple)
+  * [MPS](https://zliao555.github.io/flying-brochure/mps)
+  * [Texas Instruments](https://zliao555.github.io/flying-brochure/ti)
+
+---
+## **学校**
 
 * **USA**
   * [Massachusetts Institute of Technology (MIT)](https://zliao555.github.io/flying-brochure/mit)
