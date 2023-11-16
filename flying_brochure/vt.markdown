@@ -82,12 +82,12 @@ IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要
 
 [Yuhao Zhang](https://cpes.vt.edu/people/faculty/3886)
 
-小 AP 2017年 PhD@MIT，北京大学校友，于 2018年加入 VT。研究领域为 GaN器件本体。
+小 AP，2017年 PhD@MIT，北京大学校友，于 2018年加入 VT。研究领域为 GaN器件本体。
 
 ---
 
 [Guo-Quan Lu](https://ece.vt.edu/people/profile/lu)
 
-1990 年 PhD@Harvard，研究领域主要为期间封装，磁件集成。和 CPES 更多是合作关系。学生主要是学材料的。 
+1990 年 PhD@Harvard，研究领域主要为器件封装，磁件集成。和 CPES 更多是合作关系。学生主要是学材料的。 
 
 
