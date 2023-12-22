@@ -3,7 +3,7 @@ layout: page
 title: Toronto Metropolitan University (TMU)
 permalink: /flying-brochure/Ryerson
 ---
-# Ryerson University
+# Toronto Metropolitan University
 曾经的Ryerson University。过去有Dr. Bin Wu坐镇，但如今已经退休了。
 
 
