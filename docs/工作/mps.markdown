@@ -1,6 +1,6 @@
 ---
 layout: page
-title: apple
+title: mps
 permalink: /flying-brochure/mps
 ---
 # mps

@@ -4,7 +4,7 @@ title: updates
 permalink: /flying-brochure/updates
 ---
 
-# 2022 更新
+## 2022 更新
 
 **新老师**
 [Xin Zan](https://zliao555.github.io/flying-brochure/umd) University of Maryland
@@ -17,7 +17,7 @@ permalink: /flying-brochure/updates
 [Qin Lei] ASU to Tesla
 
 ---
-# 2021 更新
+## 2021 更新
 
 **跳槽**
 [Ron Hui] HKU to Nanyang Tech
@@ -30,7 +30,7 @@ permalink: /flying-brochure/updates
 [Wei Han](https://zliao555.github.io/flying-brochure/hkust) HKUST
 
 ---
-# 2020更新
+## 2020更新
 
 **跳槽**
 
