@@ -38,3 +38,11 @@ Kickstarter上很火的全世界最小的笔记本适配器产品也是他学生
 [Luca Daniel](http://www.mit.edu/~dluca/)
 
 2001年PhD@UCB Sanders的学生，曾经的 PELS Award for Best Journal Paper得主。但是现在已经转行，不研究PE了。
+
+---
+
+[Samantha Coday](https://coday.mit.edu/)
+
+小ap，2023 年 PhD UC Berkeley。pilawa的学生。主要做flying cap和hybrid switch capacitor dcdc在电动飞机领域的应用。为人很好，做事很认真
+
+---
