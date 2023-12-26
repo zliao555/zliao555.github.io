@@ -4,9 +4,18 @@ title: updates
 permalink: /flying-brochure/updates
 ---
 
+
+## 2023 更新
+
+**新老师**
+
+[Samantha Coday](https://coday.mit.edu/) MIT
+
+
 ## 2022 更新
 
 **新老师**
+
 [Xin Zan](https://zliao555.github.io/flying-brochure/umd) University of Maryland
 
 [Lei Gu](https://zliao555.github.io/flying-brochure/upenn) University of Pennsylvania
