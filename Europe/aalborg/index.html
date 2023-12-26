@@ -1,0 +1,3938 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../Canada/uofyork/">
+      
+      
+        <link rel="next" href="../eindhove/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.3">
+    
+    
+      
+        <title>AAlborg University (AAU) - 电力电子飞跃手册</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.50c56a3b.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#aalborg-university" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="电力电子飞跃手册" class="md-header__button md-logo" aria-label="电力电子飞跃手册" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            电力电子飞跃手册
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              AAlborg University (AAU)
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="分享" aria-label="分享" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/zliao555/zliao555.github.io" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    zliao555/zliao555.github.io
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  首页
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Canada/Alberta/" class="md-tabs__link">
+          
+  
+  Canada
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  Europe
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Hong%20Kong/cityu/" class="md-tabs__link">
+          
+  
+  Hong Kong
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../UK/Aston-UK/" class="md-tabs__link">
+          
+  
+  UK
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../USA/Auburn/" class="md-tabs__link">
+          
+  
+  USA
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../%E5%B7%A5%E4%BD%9C/apple/" class="md-tabs__link">
+          
+  
+  工作
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../%E9%99%84%E5%BD%95/handong_intro/" class="md-tabs__link">
+          
+  
+  附录
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="电力电子飞跃手册" class="md-nav__button md-logo" aria-label="电力电子飞跃手册" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    电力电子飞跃手册
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/zliao555/zliao555.github.io" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    zliao555/zliao555.github.io
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    首页
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Canada
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Canada
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Alberta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Alberta (Alberta)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Brunswick/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of New Brunswick (Brunswick)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Carleton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Carleton University (Carleton)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Concordia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concordia University (Concordia)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Lakehead/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lakehead University (Lakehead)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/MUN/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Memorial University of Newfoundland (MUN)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Mac/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    McMaster University (Mac)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Manitoba/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Manitoba (Manitoba)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/McGill/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    McGill University (McGill)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/OntarioTech/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ontario Tech University (OntarioTech)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Queens/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Queen’s University (Queens)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Ryerson/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Toronto Metropolitan University (TMU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/SFU/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Simon Fraser University (SFU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/UBC/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of British Columbia (UBC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/UCalgary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Calgary (UCalgary)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/UWO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Western University (UWO)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/UofT/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Toronto (UofT)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Victoria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Victoria (Victoria)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Waterloo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Waterloo (Waterloo)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/Windsor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Windsor (Windsor)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canada/uofyork/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of York
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Europe
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Europe
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    AAlborg University (AAU)
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../eindhove/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Eindhoven University of Technology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Hong Kong
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Hong Kong
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Hong%20Kong/cityu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    City University of Hong Kong
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Hong%20Kong/hku/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The University of Hong Kong
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Hong%20Kong/hkust/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hong Kong University of Science and Technology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    UK
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            UK
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/Aston-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aston University, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/Bath-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Bath, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/Birmingham-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Birmingham, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/Cardiff-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Cardiff, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/ICL-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Imperial College London, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/Loughborough-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loughborough University, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/UCAM-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Cambridge, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/bristol-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Bristol, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/edinburgh-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Edinburgh, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/glasgow-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Glasgow, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/nott-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Nottingham, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/oxford/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Oxford
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../UK/sheff-UK/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Sheffield, UK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    USA
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            USA
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/Auburn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Auburn University (Auburn)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/MST/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Missouri University of Science and Technology (MST)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/Oregon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Oregon State University (OSU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/SDSU/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    San Diego State University (SDSU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Alabama (UA)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UArk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Arkansas (UArk)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UCB/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of California, Berkeley
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UCSC/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of California, Santa Cruz (UCSC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UCSD/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of California, San Diego (UCSD)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UGA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Georgia (UGA)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UH/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Houston (UH)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UMDearborn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Michigan, Dearborn (UM-Dearborn)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/UNCC/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of North Carolina, Charlotte (UNCC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/USC/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of South Carolina (USC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/USU/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Utah State University (USU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/albany/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University at Albany, SUNY (Albany)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/asu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arizona State University (ASU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/baylor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Baylor University (Baylor)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/buffalo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University at Buffalo, SUNY (UB)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/clarkson/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Clarkson University (Clarkson)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/clemson/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Clemson University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/colombia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colombia University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/cornell/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cornell
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/cuboulder/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Colorado, Boulder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/dartmouth/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dartmouth College
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/dayton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Dayton (UD)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/denver/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Denver
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/drexel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Drexel University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/duke/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Duke University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/fiu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Florida International University (FIU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/fsu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Florida State University (FSU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/gatech/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Georgia Institute of Technology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/gwu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    George Washington University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/iit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Illinois Institute of Technology (IIT)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/ksu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kansas State University (KSU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/ku/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kansas University (KU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/lehigh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lehigh University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/lsu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Louisiana State University (LSU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/m%28ichigan%29su/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Michigan State University (MSU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/marquette/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Marquette University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/miami/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Miami University, Oxford
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/mines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colorado School of Mines (Mines)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/missouri/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Missouri, Columbia (Missouri)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/mit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Massachusetts Institute of Technology (MIT)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/montana/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Montana State University (MSU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/msstate/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mississippi State University (Msstate)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/mtu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Michigan Technological University (MTU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/ncsu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    North Carolina State University, Raleigh
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/nebraska/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Nebraska, Lincoln (UNL)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/neu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Northeastern Univeristy (NEU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/niu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Northern Illinois University (NIU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/nyu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    New York University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/ohio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ohio State University, Columbus
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/okstate/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Oklahoma State University (OkState)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/pitt/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Pittsburgh
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/princeton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Princeton University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/psu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pennsylvania State University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/purdue/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Purdue University (Purdue)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/rpi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rensselaer Polytechnic Institute (RPI)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/siuc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Southern Illinois University, Carbondale (SIUC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/stanford/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stanford University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/stony/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stony Brook
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/tamu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Texas A&M University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/temple/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Temple University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/ttu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Texas Tech University (TTU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/tufts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tufts University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/ucf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Central Florida (UCF)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uci/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of California, Irvine (UCI)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/ucla/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of California, Los Angeles (UCLA)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uconn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Connecticut
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Florida (UF)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Illinois, Chicago (UIC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uiuc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Illinois, Urbana-Champaign
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uky/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Kentucky (UKY)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/umd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Maryland, College Park (UMD)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/umich/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Michigan, Ann Arbor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uml/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Massachusetts, Lowell (UML)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/umn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Minnesota, Twin Cities (UMN)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/und/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of North Dakota (UND)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/unr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Nevada, Reno (UNR)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/upenn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Pennsylvania
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/usf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of South Florida (USF)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Texas, Arlington (UTA)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/utaustin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Texas, Austin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/utd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Texas, Dallas (UTD)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/utk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Tennessee, Knoxville
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/utsa/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Texas, San Antonio (UTSA)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uw/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Washington (UW)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uwm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Wisconsin, Milwaukee (UWM)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/uwmadison/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    University of Wisconsin, Madison
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/vt/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Virginia Polytechnic Institute and State University
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../USA/wvu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    West Virginia University (WVU)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    工作
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            工作
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E5%B7%A5%E4%BD%9C/apple/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    apple
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E5%B7%A5%E4%BD%9C/google/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    google
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E5%B7%A5%E4%BD%9C/lucid/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lucid
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E5%B7%A5%E4%BD%9C/mps/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    mps
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E5%B7%A5%E4%BD%9C/tesla/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    tesla
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E5%B7%A5%E4%BD%9C/ti/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    texas instruments
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    附录
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            附录
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%99%84%E5%BD%95/handong_intro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    涵东的序
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%99%84%E5%BD%95/richardbass/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Richard Bass 奖得主
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%E9%99%84%E5%BD%95/updates/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    updates
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/zliao555/zliao555.github.io/edit/master/docs/Europe/aalborg.markdown" title="编辑此页" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="aalborg-university">Aalborg University</h1>
+<p>学校排名:</p>
+<h1 id="244-in-the-world">244 in the world</h1>
+<p>学科排名：</p>
+<p>No. 4 in Engineering,
+No. 2 in Electrical and Electronic Engineering</p>
+<p>整体介绍：
+在奥尔堡大学是没有电气工程系的。电力电子和电力系统方向被包含在了能源技术系（Energy Technology）, www.et.aau.dk.</p>
+<p>能源技术系中，又进一步区分了7个sections，分别为：
+1. Electrical power systems
+2. Thermal energy system
+3. Power electronics systems
+4. Thermofluids
+5. Electrical machines
+6. Fluid power and mechatronics systems
+7. Esbjerg energy section</p>
+<p>其中1，3，5与电力电子最为相关。</p>
+<hr />
+<p>2022 人事变动</p>
+<ol>
+<li>Yongheng Yang 离职AAU，加入ZJU</li>
+<li>Qian Wang 老师也离职回国了</li>
+<li>Haoran Wang 离职, 回国创业</li>
+<li>Liu Zhou 老师离职，加入Simens了</li>
+</ol>
+<p><a href="https://vbn.aau.dk/en/persons/101000">Frede Blaabjerg</a></p>
+<p>IEEE FELLOW，Full professor。 中国学生亲切的将Prof. Frede Blaabjerg称为佛爷。将Frede列在《北欧飞跃手册》中的第一位介绍对象并不过分，因为他自己就是电力电子学届的一面旗帜。
+截至2020年8月份，Frede在Google Scholar中所记载的总被引次数累计超过11w次，其中h指数155，i10指数1167。
+Frede 先后担任了PELS的副主席，主席，且曾在丹麦政府系统任职，拥有极高的声望。
+他的研究涉猎非常的广泛，基本涵盖了电力电子领域的方方面面，实属一位全才。任何的学生在他的指导下都能发挥光芒。最让人钦佩的是Frede对于工作的认真态度，平均每天不到七点就开始工作，
+即使是节假日也能在系里看见他矍铄的身影。他所指导的学生在就读期间往往能得到全方位的发展，近些年不乏前往MIT，加州伯克利，普林斯顿大学，剑桥大学交流和进一步发展的学生。
+他所培养的学生也极为出色，例如Xiongfei Wang, Yongheng Yang等等，虽然非常年轻，但都已在电力电子学届崭露头角。
+他的团队也极为庞大，通常他的学生由他和团队的其他老师合作指导。他也经常协助指导团队老师的学生。组里中国学生较多。对待学生非常nice，会与学生进行固定时间的讨论，善于启发和引导学生。同时招收全奖资助（较多），CSC和自费的学生。
+Frede拥有自己的团队，其下包括 Huai Wang， Xiongfei Wang， Francesco Lannuzzo，Pooya Davari， Yongheng Yang等等。后面会尽量详细介绍Frede组内的其他老师。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/124612">Josep Guerrero</a></p>
+<p>IEEE FELLOW, Full professor。是一位拥有较深学术造诣，且擅长音乐的IEEE FELLOW。
+截至2020年8月份，Josep在Google Scholar中所记载的总被引次数累计超过5.4w次，其中h指数103，i10指数582。
+Josep主要的研究方向与micro grid有关，去年获得了非常大的项目。早些年发表的关于droop control的相关文章拥有显著的影响力。组里中国学生和伊朗的学生较多。据说Josep组的offer比较好申请，每年都有大量的新生加入团队。学生主要由组内的其他老师共同指导，但本人仍然在带学生。Josep会说中文，并且使用微信，有一头飘逸且灵动的长发。毕业的学生中，有人对其大加赞赏的，也有人对其评价较为一般。同时招收全奖资助（较少），CSC和自费的学生。
+Josep拥有自己的团队，其下包括Juan C. Vasquez，Saeed Golestan， Yajuan Guan 等等。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/100319">Remus Teodorescu</a></p>
+<p>IEEE FELLOW, Full professor。
+拥有极深的学术造诣，其与Marco Liserre, Pedro Rodriguez所一同编著的《Grid Converters for Photovoltaic and Wind Power Systems》 是新能源并网领域非常著名的一本书。这几年主要从事MMC和储能方面的研究。
+近年Remus组内的项目有所减少，组内的成员大约维持在个位数。大部分中国学生通过CSC资助的途径加入团队。
+Remus拥有自己的团队，其下主要包括Sanjay Chaudhary。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/109374">Zhe Chen</a></p>
+<p>IEEE FELLOW, Full professor。 Zhe Chen 主攻风电并网方向的研究。虽然已经年逾古稀之年，却时常能在深夜看见他矍铄的身影。
+其学生主要由组内的三位青年学者，Zhou Liu, Yanbo Wang 和 Dong Liu一同协助指导。
+的研究方向涵盖的非常广，除风场控制，电力系统控制外，也在进行电力电子和电力系统交互，电力电子拓扑的研究。组内几乎都是中国学生。近年来全奖资助较少，组内学生大部分都是CSC资助或者自费。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/105779">Stig Munk-Nielsen</a></p>
+<p>Full professor。 主要研究都集中在硬件方面，涵盖谐振变换器，多电平变换器，变换器状态监测。
+近几年获得大项目资助，建立Power module packaging实验室，拥有独立的器件封装和测试能力。最近的研究方向通过与丹麦企业合作，主要集中在10 kV SiC MOSFETs
+的封装和中压变换器的设计和应用，以及超高频GaN变换器的设计和应用。Stig对待学生非常nice，拥有极强的硬件知识储备，善于使用LTSpice，自己不仅亲自帮学生搭仿真，
+还经常陪学生做实验，和学生讨论分析实验中所出现的种种问题。Stig不混IEEE圈子也不热衷于发表论文，所以在国际的知名度并不高，
+但在工业界拥有非常好的口碑，其组内毕业的学生大部分都在如英飞凌，Cree，西门子，维斯塔斯，Danfoss等业内知名公司任职。其组内中国学生较少，大部分学生都能获得了项目资助。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/126832">Huai Wang</a></p>
+<p>Full professor。 是近些年在能源系冉冉升起的学术界新星之一。Huai本人学术经历十分丰富，毕业于香港城市大学，导师是著名学者 Henry Chung，毕业后先后在MIT等著名学府任职。
+在奥尔堡能源系，通过对电容的可靠性进行建模逐渐开创了一个独特且重要的领域，是电力电子可靠性方面的专家。其对待学生非常nice，同时拥有非常强的思维和总结能力。近年来涉及的方面已不仅仅局限于电容可靠性，在变换器的状态检测，变换器拓扑，人工智能在电力电子中的应用，以及磁性元件领域均有很不错的建树。Huai同时担任了业内多份顶级杂志的AE，是2016年PELS Bass奖的获得者。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/121393">Xiongfei Wang</a></p>
+<p>Full professor。 是Frede和Zhe Chen的学生，电力电子变换器并网控制和建模方面专家。Xiongfei以第一作者发表的论文中，90%都成为了ESI高引论文，16年入选AAU talent 计划，并先后获得了PELS Bass 奖，PELS sustainable energy system technical achievement award. 他的研究内容获得了来自工业的广泛关注，与工业巨头 ABB，Huawei，德国电网公司等拥有密切合作关系。Huawei也因此在奥尔堡设立了创新研究中心，未来将会持续投资支持相关研究。Xiongfei要求严格，对研究拥有非常高的眼光和标准，同时讲究研究的实用价值，大部分成果都直接或间接的应用到工业产品中去，这也是吸引到越来越多工业界资助项目的原因。其组内的学生的工作时间普遍较长，但学生对他的评价依然很高。近几年，获得了大量项目资助，其组内的学生目前大部分都是全奖博士或RA。他主要的研究方向是电力电子化电力系统的控制和稳定性分析，电能质量控制，有源和无源滤波器的设计等。最近也逐渐开始硬件设计方面的研究。
+[课题组网站] (https://www.et.aau.dk/research-programmes/egrid/)</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/132820">Francesco Iannuzzo</a></p>
+<p>Full professor。 半导体物理学博士出生，是功率器件建模和可靠性方面专家，在功率器件(IGBT, SiC等等)状态监测和失效机理分析方面做了大量的工作，
+为人比较热情。华科的同学应该对他很熟悉，因为他多次前往华科进行短期教学。大部分同学反映Francesco的课程非常有含金量。他并不是很热衷发论文，
+因此可能在国内的知名度一般，下面学生不是很多，有一个两个在国内读博过来交流的guest。过去几年主要帮助Frede指导学生。他自己的中国学生大部分都需要CSC的资助。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/132681">Pooya Davari</a></p>
+<p>Assoc. professor。 研究方向是电力电子变换器的EMI建模和分析，以及电机控制等。获得2020 IEEE EMC Society Young Professional Award。
+最近几年的研究重点侧重于EMI/EMC 方面，他所管理的EMI实验室可以测量conducted EMC 和radiated EMC, 
+其本人的硬件实力很强，但是组内学生主要来自伊朗，中国学生很少。人比较nice，据说对中国学生的英语水平要求比较高。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/125006">Yongheng Yang</a></p>
+<p>现已加入浙大</p>
+<p>Assoc. professor。 研究方向是光伏逆变器的控制和可靠性分析，硬件和软件都做，涉及的方面非常宽泛，几乎每个学生的研究方向都不相同。他前几年主要和Frede一起带学生，这几年来也开始独立带博士，组内中国学生较多，要求比较严格，学术产出也比较高。组内大部分学生都是CSC资助，据说今年有优秀的学生获得了项目资助。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/113152">Erik Schaltz</a></p>
+<p>Assoc. professor。 研究方向是燃料电池和电动汽车的设计和制造。他的实验室更像是一个修车厂，将一个基于化石燃料的帕萨特改造成了电驱，并且可以真正的在公路路运行。其学术产出相对较少，主要研究集中在车载电池的管理和监测方向。组内目前为止还没有中国学生。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/113161">Tamas Kerekes</a></p>
+<p>Assoc. professor。 研究方向是光伏逆变器，曾经属于Remus大组，后独立成立了自己的光伏研究组，学生比较少，但据说人比较nice，比较喜欢开玩笑。这几年有一些funding，部分的优秀的学生获得了项目的资助。其实验室可以测试光伏太阳能板的在不同光照，温度条件下的性能。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/126549">Dao Zhou</a></p>
+<p>Assis. Professor。研究方向是风电变流器的可靠性分析，主要和Frede一起带学生，对学生非常nice。经常自己做实验，搭台子，记录数据等。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/136642">Haoran Wang</a></p>
+<p>已离职回国创业</p>
+<p>Assis. Professor。 研究方向是电容的可靠性分析以及有源电容变换器，目前和Huai Wang老师一起带学生，思维敏捷，动手能力强，对学生非常nice。自己还在搭台子做试验等。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/128003">Amir Sajjad Bahman</a></p>
+<p>Assis. Professor
+研究方向为器件可靠性以及基于有限元的热仿真，和Francesco一起带学生，组内学生主要来自伊朗。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/120591">Zhou Liu</a></p>
+<p>Assis. Professor
+研究方向偏电力系统规划，继电保护，以及人工智能在电力系统中的应用，和Zhe Chen老师一起带学生，组内基本是中国学生。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/134363">Yanbo Wang</a></p>
+<p>Assis. Professor
+研究方向是电力电子和电力系统稳定性以及可靠性分析，主要帮助Zhe Chen老师一起带学生，组内基本是中国学生。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/130856">Yajuan Guan</a></p>
+<p>Assis. Professor。
+研究方向为微电网的控制，物联网在微电网的应用等，和Josep老师一起带学生，对学生非常nice，组内学生以中国和伊朗学生为主。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/135716">Qian Wang</a></p>
+<p>已经离职回国
+Assis. Professor
+研究方向是偏重电力系统高压绝缘这块，属于电力系统组。近几年也在涉及与电力电子结合的课题研究，例如中压电力电子器件中的绝缘和老化问题，局部放电的测量等。平易近人且非常nice。</p>
+<hr />
+<p><a href="https://vbn.aau.dk/en/persons/100023">Kaiyuan Lu</a></p>
+<p>Assoc. professor
+研究方向是电机本体设计和控制，对学生很nice，对电机的有自己独特的理解。逻辑思维能力非常强。组内有不少中国学生，但大部分都是CSC资助。</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="页脚" >
+        
+          
+          <a href="../../Canada/uofyork/" class="md-footer__link md-footer__link--prev" aria-label="上一页: University of York">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                上一页
+              </span>
+              <div class="md-ellipsis">
+                University of York
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../eindhove/" class="md-footer__link md-footer__link--next" aria-label="下一页: Eindhoven University of Technology">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                下一页
+              </span>
+              <div class="md-ellipsis">
+                Eindhoven University of Technology
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "toc.follow", "navigation.top", "navigation.footer", "search.suggest", "search.highlight", "search.share", "content.action.edit"], "search": "../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
+      
+    
+  </body>
+</html>
