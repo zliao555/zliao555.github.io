@@ -46,7 +46,11 @@
 ## 工作板块
 
 全新板块，欢迎各位联系liaozitao@gmail.com更新各公司信息。由于公司信息相对于学校会比较敏感，写的会比较概括。如果需要详细信息，可以联系愿意提供信息的相对应公司员工。
-  
+
+## 搜索功能
+
+2023年底本手册迁移至[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)，拥有了完全基于本地的搜索功能，点击右上角的搜索框即可使用。由于中文搜索本身的复杂性，搜索结果可能不够准确，请多次多角度尝试，例如在词之间添加空格（`电机控制`->`电机` `控制`）。此外，亦可访问[GitHub仓库页面](https://github.com/search?q=repo%3Azliao555%2Fzliao555.github.io%20飞跃手册&type=code)，在页面上方的搜索框内键入内容即可。
+
 ## 附录
 
 * [纪念涵东](https://handonggui.github.io/)
