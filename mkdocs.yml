@@ -14,6 +14,7 @@ theme:
     - search.highlight
     - search.share
     - content.action.edit
+    - content.action.view
   palette: 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -32,20 +33,23 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-  plugins:
-    - search:
-        lang: zh
-    - offline
-    - git-revision-date-localized:
-        enabled: true
-        type: date
-        enable_creation_date: true
-    - git-committers:
-        repository: zliao555/zliao555.github.io
-        branch: master
-        enabled: true
   icon:
     repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: zh
+  # - offline
+  - git-revision-date-localized:
+      enabled: true
+      type: date
+      enable_creation_date: true
+  - git-committers:
+      repository: zliao555/zliao555.github.io
+      branch: master
+      token: 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
+      enabled: true
+        
 site_name: 电力电子飞跃手册
 repo_url: https://github.com/zliao555/zliao555.github.io
 repo_name: zliao555/zliao555.github.io
