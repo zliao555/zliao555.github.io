@@ -10,6 +10,7 @@ permalink: /flying-brochure/updates
 **新老师**
 
 [Samantha Coday](https://coday.mit.edu/) MIT
+[Xiaofan Cui](https://samueli.ucla.edu/people/xiaofan-cui/) UCLA
 
 
 ## 2022 更新
