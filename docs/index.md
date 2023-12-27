@@ -40,5 +40,7 @@
   * [历年Richard M. Bass Outstanding Young Power Electronics Engineer Award得主列表](/附录/richardbass)
   * PE领域美国工程院院士 
   * 历年William E. Newell Power Electronics Award得主列表 
-  * 历年R. David Middlebrook Award得主列表 
+  * 历年R. David Middlebrook Award得主列表
+
+  * worinixianren
  
