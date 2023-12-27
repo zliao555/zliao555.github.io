@@ -6,6 +6,10 @@ permalink: /flying-brochure/bass
 
 # Richard Bass 
 
+[IEEE Richard Bass Award官网](https://www.ieee-pels.org/awards/pels/bass-outstanding-young-power-electronics-engineer-award)
+
+---
+
 The Richard M. Bass Outstanding Young Power Electronics Engineer Award recognizes 
 outstanding achievement in the field of power electronics by an engineer less than 
 35 years of age. Candidates are judged for outstanding contributions encompassing 
@@ -16,7 +20,10 @@ and practical application of electronic devices, magnetics, controls and power c
 for inverters, converters and motor drives 
 ranging in power level from fractions of a watt to megawatts.
 
-
+* 2023  [Minjie Chen](https://flyingbrochure.org/USA/princeton/?h=minjie)
+* 2022	[Daniel Costinett](https://flyingbrochure.org/USA/utk/)
+* 2021	Yongheng Yang (ZJU)
+* 2020	Pradeep Shenoy (Texas Instruments)
 * 2019  Katherine Kim (NTU 台湾国立)
 * 2018  [Xiongfei Wang (Aalborg)](https://zliao555.github.io/flying-brochure/AAU)
 * 2017  [Ali Davoudi (UTA)](https://zliao555.github.io/flying-brochure/uta)
