@@ -33,12 +33,7 @@ permalink: /flying-brochure/utd
 [Integrated Power Laboratory](https://personal.utdallas.edu/~hoilee/grp.htm)。
 
 ---
-[Bilal Akin](https://personal.utdallas.edu/~bilal.akin/) 大 AP，土耳其人 2007年 PhD@TAMU Toliyat的学生，曾在 TI工
-作四年，于 2012年加入 UTD，研究领域主要为电机控制，故障诊断等 近几年
-文章很多 。
+[Bilal Akin](https://personal.utdallas.edu/~bilal.akin/) IEEE Fellow，土耳其人 2007年 PhD@TAMU Toliyat的学生，曾在 TI工
+作四年，于 2012年加入 UTD，研究领域分为电机与电力电子。电机部分主要为电机控制，故障诊断等，电力电子部分主要为第三代半导体(GaN, SiC)的可靠性研究以及寿命预测。近几年
+文章很多。
 
-
----
-[Ghanshyamsinh Gohil](https://ece.utdallas.edu/staff/ghanshyamsinh-gohil/)：小 AP，印度人 2016年 PhD@Aalborg Blaabjerg的学
-生，于 2018年加入 UTD。研究领域主要为新器件应用，变换器控制等。 其名下
-实验室： [Power Electronics Lab](https://personal.utdallas.edu/~ghanshyam.gohil/)。
