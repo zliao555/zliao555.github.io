@@ -47,7 +47,7 @@ plugins:
   - git-committers:
       repository: zliao555/zliao555.github.io
       branch: master
-      token: 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
+      token: !ENV ["GH_TOKEN"]
       enabled: true
         
 site_name: 电力电子飞跃手册
