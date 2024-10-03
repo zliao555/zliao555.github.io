@@ -15,7 +15,7 @@ permalink: /flying-brochure/lehigh
 
 [Fei Lu](https://engineering.lehigh.edu/faculty/fei-lu)
 
-小 AP， 2017年 PhD@Umich Hofmann的学生
+大 AP， 2017年 PhD@Umich Hofmann的学生
 
 哈尔滨工业大学校友
 
