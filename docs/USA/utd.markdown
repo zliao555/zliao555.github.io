@@ -37,3 +37,7 @@ permalink: /flying-brochure/utd
 作四年，于 2012年加入 UTD，研究领域分为电机与电力电子。电机部分主要为电机控制，故障诊断等，电力电子部分主要为第三代半导体(GaN, SiC)的可靠性研究以及寿命预测。近几年
 文章很多。
 
+---
+[Mona Ghassemi](https://ece.utdallas.edu/people/tenure-system-faculty/ghassemi-mona/)
+
+女，大 AP，2012 年 PhD@Uof Tehran，伊朗土博，毕业后在加拿大工作，于 2022 年加入 UTD。研究领域主要为高压，绝缘技术。
