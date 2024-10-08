@@ -19,7 +19,7 @@ Virginia Polytechnic Institute and State University (VT)
 
 [Dushan Boroyevic](https://cpes.vt.edu/people/faculty/89)
 
-美国工程院院士，IEEE Fellow，1986 年 PhD@VT，Fred Lee的学生，曾任 IEEE Power Electronics Society (PELS)的主席，2007 Newell奖得主，研究领域主要是电网，新能源系统，新器件应用，电动汽车等。人非常 nice。现在应该不招新学生了。 
+美国工程院院士，IEEE Fellow，1986 年 PhD@VT，Fred Lee的学生，曾任 IEEE Power Electronics Society (PELS)的主席，2007 Newell奖得主，研究领域主要是电网，新能源系统，新器件应用，电动汽车等。人非常 nice。于2024年8月宣布退休。 
 
 
 ---
@@ -32,8 +32,7 @@ IEEE Fellow，1998 年 PhD@VT，Fred Lee的学生，清华大学校友。在GE�
 
 [Jih-Sheng (Jason) Lai](https://ece.vt.edu/people/profile/lai)
 
-IEEE Fellow，台湾人，1989年 PhD@UTK，研究领域主要为微网，光伏，逆变器，电动汽车等， 2016年 Google Little Box比赛唯一的高
-校获奖队伍就是他执导的 。注意他不属于CPES，所以在CPES的实验室网站上是找不到他的，套磁的时候也别写错。其名下实验室：[Future Energy Electronics Center (FEEC)](https://www.feec.ece.vt.edu/)。 
+IEEE Fellow，台湾人，1989年 PhD@UTK，研究领域主要为微网，光伏，逆变器，电动汽车等， 2016年 Google Little Box比赛唯一的高校获奖队伍就是他执导的 。注意他不属于CPES，所以在CPES的实验室网站上是找不到他的，套磁的时候也别写错。其名下实验室：[Future Energy Electronics Center (FEEC)](https://www.feec.ece.vt.edu/)。 
 
 ---
 
@@ -51,20 +50,14 @@ IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要
 
 [Qiang Li](https://cpes.vt.edu/people/faculty/1703)
 
-大 AP，2011 年 PhD@VT，Fred Lee 的学生，浙江大学校友，研究领域主要为高功率密度变换器，新器件应用，电力电子功率集成，磁性元件设计等，人很 nice，面试用中文。和Fred Lee 在一个组。 
+Professor，2011 年 PhD@VT，Fred Lee 的学生，浙江大学校友，研究领域主要为高功率密度变换器，新器件应用，电力电子功率集成，磁性元件设计等，人很 nice，面试用中文。和Fred Lee 在一个组。 
 
 ---
 
 
 [Dong Dong](https://cpes.vt.edu/people/faculty/3895)
 
-小 AP，2012 年 PhD@VT，Boroyevich 的学生，清华大学校友，毕业后在 GE 工作，于 2018 年加入 VT。研究领域主要为多电平变换器，HVDC，新器件应用等。 
-
----
-
-[Mona Ghassemi](https://cpes.vt.edu/people/faculty/3269)
-
-女，小 AP，2012 年 PhD@Uof Tehran，伊朗土博，毕业后在加拿大工作，于 2017 年加入 VT。研究领域主要为高压，绝缘技术。 
+大 AP，2012 年 PhD@VT，Boroyevich 的学生，清华大学校友，毕业后在 GE 工作，于 2018 年加入 VT。研究领域主要为多电平变换器，HVDC，新器件应用等。 
 
 ---
 
@@ -74,9 +67,9 @@ IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要
 
 ---
 
-[Ali Mehrizi-Sani](https://eecs.wsu.edu/~mehrizi/)
+[Ali Mehrizi-Sani](https://ece.vt.edu/people/profile/mehrizi.html)
 
-大 AP，伊朗人，2011 年 PhD@UofT，Iravani 的学生，曾在WSU 任教，于 2019 年加入 VT。研究领域主要为电网，FACTS，新能源系统等，偏 PS。其名下实验室：Laboratory for Integration of Power Electronics (LIPE)，仅有的几个学生都是伊朗人。  
+Professor，伊朗人，2011 年 PhD@UofT，Iravani 的学生，曾在WSU 任教，于 2019 年加入 VT。研究领域主要为电网，FACTS，新能源系统等，偏 PS。其名下实验室：Laboratory for Integration of Power Electronics (LIPE)，仅有的几个学生都是伊朗人。  
 
 ---
 
@@ -86,8 +79,12 @@ IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要
 
 ---
 
-[Guo-Quan Lu](https://ece.vt.edu/people/profile/lu)
+[Guo-Quan Lu](https://cpes.vt.edu/people/faculty/447)
 
 1990 年 PhD@Harvard，研究领域主要为器件封装，磁件集成。和 CPES 更多是合作关系。学生主要是学材料的。 
 
+---
 
+[Liyan Zhu](https://cpes.vt.edu/people/faculty/6702)
+
+小 AP，2022年 PhD@UTK，2022年11月加入CPES。研究领域包括基于宽禁带器件（WBG）的DC/DC converter、多端口磁性元件和变换器以及电动汽车集成充电系统。
