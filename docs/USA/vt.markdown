@@ -6,7 +6,7 @@ permalink: /flying-brochure/vt
 # Virginia Polytechnic Institute and State University
 
 Virginia Polytechnic Institute and State University (VT) 
-这里被称为电力电子的圣殿，因为这里有 Fred Lee 和 CPES。谈到电力电子，第一个跳进大多数中国学生脑海的一定是 CPES。即便是目前，如果它说自己是 PE第二，还不会有哪家敢说自己是第一。诚然，所谓高处不胜寒，CPES 不如曾经那么一枝独秀，其中一部分原因是原来实在是太强了，月满则亏。另一方面和老师的流失也有关系，如原 NCSU 的 Alex Huang，UTK 的 Fred Wang 等，都是从CPES 走出来开创了自己的事业，将一所原本 PE 并不突出的学校发展成了 PE 顶尖强校，这从另一个侧面也说明曾经 CPES 该是有多么强大。无论如何，现在的CPES 学术水平仍然是最顶尖的。目前 CPES 分在两个校区，以 Boroyevich 和Burgos 为主的高压大功率项目在 Arlinton 的新校区实验室。 
+这里被称为电力电子的圣殿，因为这里有 Fred Lee 和 CPES。谈到电力电子，第一个跳进大多数中国学生脑海的一定是 CPES。即便是目前，如果它说自己是 PE第二，还不会有哪家敢说自己是第一。诚然，所谓高处不胜寒，CPES 不如曾经那么一枝独秀，其中一部分原因是原来实在是太强了，月满则亏。另一方面和老师的流失也有关系，如原 NCSU 的 Alex Huang，UTK 的 Fred Wang 等，都是从CPES 走出来开创了自己的事业，将一所原本 PE 并不突出的学校发展成了 PE 顶尖强校，这从另一个侧面也说明曾经 CPES 该是有多么强大。无论如何，现在的CPES 学术水平仍然是最顶尖的。目前 CPES 分在两个校区，Richard Zhang 和 Dimarino 两位老师的组在 Arlinton 的新校区实验室，另外 Burgos 组也有少部分学生在 Arlinton Lab。 
 [Center for Power Electronics Systems (CPES)](https://cpes.vt.edu/)
 
 --- 
@@ -38,7 +38,7 @@ IEEE Fellow，台湾人，1989年 PhD@UTK，研究领域主要为微网，光伏
 
 [Khai Ngo](https://cpes.vt.edu/people/faculty/5)
 
-IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要为封装，材料热效应，磁性元件等，做的东西很底层，比较小众偏门。既不属于 Fred Lee 的组也不属于 Dushan 的组，自己一个人单干。现在应该也不招生了
+IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要为封装，材料热效应，磁性元件等，做的东西很底层，比较小众偏门。既不属于 Fred Lee 的组也不属于 Dushan 的组，自己一个人单干。现在应该也不招生了，也即将退休。
 
 ---
 
@@ -63,7 +63,7 @@ Professor，2011 年 PhD@VT，Fred Lee 的学生，浙江大学校友，研究�
 
 [Christina DiMarino](https://cpes.vt.edu/people/faculty/1228)
 
-女，小 AP，2018 年 PhD@VT，Boroyevich 的学生，研究领域为高压器件封装，宽禁带半导体等。 
+女，大 AP，2018 年 PhD@VT，Boroyevich 的学生，研究领域为高压器件封装，宽禁带半导体等。 
 
 ---
 
@@ -75,7 +75,7 @@ Professor，伊朗人，2011 年 PhD@UofT，Iravani 的学生，曾在WSU 任教
 
 [Yuhao Zhang](https://cpes.vt.edu/people/faculty/3886)
 
-小 AP，2017年 PhD@MIT，北京大学校友，于 2018年加入 VT。研究领域为 GaN器件本体。
+小 AP，2017年 PhD@MIT，北京大学校友，于 2018年加入 VT。研究领域为 GaN器件本体。2024年跳槽至港大任正教授。
 
 ---
 
