@@ -42,5 +42,5 @@ AP， 2009年 PhD@ETH，FSU博后，于2015年加入GT。研究领域主要为 �
 
 [Baoyun Ge](https://ece.gatech.edu/directory/baoyun-ge)
 
-AP, 2018年PhD@UW-Madison,美国自然科学基金委杰出青年奖获得者，TPEL副主编，于2024年加入GT，研究领域主要为电机拓扑自动化探索、电力电子拓扑自动化探索、高性能控制算法、磁材料建模等。
+AP, 2018年PhD@UW-Madison,美国自然科学基金委杰出青年奖获得者，TPEL副主编，于2024年加入GT，研究领域主要为电机拓扑自动化探索、电力电子拓扑自动化探索、高性能控制算法、磁材料建模等。实验室网站：[Ge's Electric Machines Lab](https://gem.ece.gatech.edu/)。
 
