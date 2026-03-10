@@ -21,3 +21,11 @@ UTAustin。
 
 小 AP，2019年 PhD@MIT Perreault的学生，2019年加入
 UTAustin，研究领域主要为高频电力电子，PFC的拓扑和控制，磁性元件等。[个人网站](http://sites.utexas.edu/hanson/) 显示有opening。
+
+---
+
+[Yicheng Zhu](https://sites.utexas.edu/zhu/research/)
+
+小 AP，清华大学校友，2024年 PhD & 2025 Postdoc@UC Berkeley. Robert Pilawa的学生，2026年加入UTAustin。
+研究方向主要为数据中心供电系统，包括48V point of load converter拓扑、控制、磁设计、功率集成，800VDC架构等。[实验室主页](https://sites.utexas.edu/zhu/research/)
+
