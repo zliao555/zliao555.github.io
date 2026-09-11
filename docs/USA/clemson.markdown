@@ -5,6 +5,18 @@ permalink: /flying-brochure/clemson
 ---
 # Clemson University
 
+---
+
+[Dingrui Li](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/ldingrui.html)
+
+小 AP，2023年 PhD@UTK Fred Wang的学生，清华大学校友。
+
+曾在 ABB USCRC工作，于 2024年加入 Clemson。
+
+研究领域主要为电力电子在电网中的应用，AI数据中心并网，AI控制在电力电子中的应用等。
+
+---
+
 [Johan H. Enslin](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/jenslin.html)
 
 IEEE Fellow，南非人，1988年 PhD@ Rand Afrikaans University
@@ -12,6 +24,8 @@ IEEE Fellow，南非人，1988年 PhD@ Rand Afrikaans University
 曾在工业界工作 20多年，之后在 UNCC任教，是 UNCC EPIC的创始人。
 
 于 2016年加入 Clemson。研究领域为电网，光伏，智能建筑等。
+
+现为ARPA-E Program Director，暂时不招学生。
 
 ---
 
@@ -23,15 +37,6 @@ IEEE Fellow，南非人，1988年 PhD@ Rand Afrikaans University
 
 研究领域主要为电机 电网等 偏 PS。
 
----
-
-[Zheyu Zhang](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/zzhang.html)
-
-小 AP，2015年 PhD@UTK Fred Wang的学生，华中科技大学校友。
-
-曾在 GE GRC工作，于 2019年加入 Clemson。
-
-研究领域主要为宽禁带半导体应用，储能系统等。
 
 ---
 
