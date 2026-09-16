@@ -14,6 +14,12 @@ permalink: /flying-brochure/UH
 
 ---
 
+[Hao Huang](https://www.ee.uh.edu/faculty/huang-hao)
+
+Distinguished Adjunct Professor，美国工程院院士，IEEE Fellow，1987PhD@UC Boulder。曾在GE担任Technology Chief，2021年GE退休后加入UH。研究领域主要为飞机供电、传动系统等。
+
+---
+
 [Wajiha Shireen](https://uh.edu/technology/departments/et/people/faculty/?l=shireen&f=wajiha)
 
 女，孟加拉人，1993年PhD@TAMU，研究领域主要为风电，光伏，电动汽车，电机控制等。
@@ -22,4 +28,4 @@ permalink: /flying-brochure/UH
 
 [Harish S. Krishnamoorthy](http://www.ee.uh.edu/faculty/krishnamoorthy)
 
-小AP，印度人，2015年PhD@TAMU，Enjeti的学生，于2017年加入UH。研究领域主要为逆变器，电网等。
+大AP，印度人，2015年PhD@TAMU，Enjeti的学生，于2017年加入UH。研究领域主要为逆变器，电网等。
