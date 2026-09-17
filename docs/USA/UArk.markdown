@@ -31,7 +31,8 @@ Power相关的 Faculty名单：
 [Yue Zhao](https://electrical-engineering.uark.edu/directory/index/uid/yuezhao/name/Yue+Zhao/) 小 AP 2015年 PhD@UNL Wei Qiao的学生，北京航空航天大学校友，研究领域主要为电机控制，新能源系统，微网等。
 
 ---
-[Yarui Peng](https://computer-science-and-computer-engineering.uark.edu/directory/index/uid/yrpeng/name/Yarui+Peng/) 小 AP 2016年 PhD@Gatech 清华大学微电子校友，研究领域包括微电子和电力电子的电子设计自动化（EDA），IC和封装设计。与Mantooth合作开发PowerSynth EDA软件。目前在CSCE系，研究方向可考虑转码/IC。实验室：[E3DA Lab](https://e3da.csce.uark.edu/)
+[Yarui Peng](https://computer-science-and-computer-engineering.uark.edu/directory/index/uid/yrpeng/name/Yarui+Peng/) 2016年 PhD@Gatech 清华大学微电子校友，研究领域包括微电子和电力电子的电子设计自动化（EDA），IC和封装设计。与Mantooth合作开发PowerSynth EDA软件。目前在CSCE系，研究方向可考虑转码/IC。实验室：[E3DA Lab](https://e3da.csce.uark.edu/)
+已回国，先就职于东南大学。
 
 ---
 [Xiaoqing Song](https://engineering.uark.edu/directory/index/uid/songx/name/Xiaoqing+Song/)
