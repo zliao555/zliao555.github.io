@@ -18,4 +18,10 @@ permalink: /flying-brochure/USU
 
 [Hongjie Wang](https://engineering.usu.edu/ece/people/faculty/wang-hongjie)
 
-小AP，2018年PhD@USU，Zane的学生，上海交通大学校友。研究领域主要为高频电力电子，电动汽车，无线电能传输等。
+大AP，2018年PhD@USU，Zane的学生，上海交通大学校友。研究领域主要为高频电力电子，电动汽车，无线电能传输等。
+
+---
+
+[Hang Dai](https://engineering.usu.edu/ece/people/faculty/dai-hang)
+
+小AP，2021年PhD@UWM，Thomas Jahns的学生，华北电力大学校友。加入USU前在GE工作，研究领域主要为交通电气化，电磁兼容等。
