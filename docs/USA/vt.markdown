@@ -6,27 +6,32 @@ permalink: /flying-brochure/vt
 # Virginia Polytechnic Institute and State University
 
 Virginia Polytechnic Institute and State University (VT) 
-这里被称为电力电子的圣殿，因为这里有 Fred Lee 和 CPES。谈到电力电子，第一个跳进大多数中国学生脑海的一定是 CPES。即便是目前，如果它说自己是 PE第二，还不会有哪家敢说自己是第一。诚然，所谓高处不胜寒，CPES 不如曾经那么一枝独秀，其中一部分原因是原来实在是太强了，月满则亏。另一方面和老师的流失也有关系，如原 NCSU 的 Alex Huang，UTK 的 Fred Wang 等，都是从CPES 走出来开创了自己的事业，将一所原本 PE 并不突出的学校发展成了 PE 顶尖强校，这从另一个侧面也说明曾经 CPES 该是有多么强大。无论如何，现在的CPES 学术水平仍然是最顶尖的。目前 CPES 分在两个校区，Richard Zhang 和 Dimarino 两位老师的组在 Arlinton 的新校区实验室，另外 Burgos 组也有少部分学生在 Arlinton Lab。 
+这里被称为电力电子的圣殿，因为这里有 Fred Lee 和 CPES。谈到电力电子，第一个跳进大多数中国学生脑海的一定是 CPES。即便是目前，如果它说自己是PE第二，还不会有哪家敢说自己是第一。诚然，所谓高处不胜寒，CPES 不如曾经那么一枝独秀，其中一部分原因是原来实在是太强了，月满则亏。另一方面和老师的流失也有关系，如原 NCSU 的 Alex Huang，UTK 的 Fred Wang 等，都是从CPES 走出来开创了自己的事业，将一所原本 PE 并不突出的学校发展成了 PE 顶尖强校，这从另一个侧面也说明曾经 CPES 该是有多么强大。无论如何，现在的CPES 学术水平仍然是最顶尖的。目前 CPES 分在两个校区，Richard Zhang 和 Dimarino 两位老师的组在 Arlinton 的新校区实验室，另外 Burgos 组也有少部分学生在 Arlinton Lab。 
 [Center for Power Electronics Systems (CPES)](https://cpes.vt.edu/)
 
 --- 
 
-[Fred C. Lee](https://cpes.vt.edu/people/faculty/405)
+[Fred C. Lee](https://cpes.vt.edu/people/faculty/405) (已退休)
 
 美国工程院院士，IEEE Life Fellow，台湾人，1974 年 PhD@Duke，还用多介绍么？CPES 之父，如今以 70 多高龄依然活跃在学术最前线。也许有人会觉得他的生涯并没有什么突破性、飞跃性的贡献，但这世上本来就没那么多所谓的“重大突破”，更多的是一点一滴的积累与进步。在软开关、变换器建模、变换器功率密度提升等方面，Dr. Lee 的贡献无人能出其右，我们今天的电源和以前相比体积、发热有了大幅提高，他绝对功不可没。如果说现在 CPES 最大的财富，那就是极为庞大的工业界资源和人脉了，而这更是 Dr. Lee 的功劳，他的双眼永远紧盯工业界的需求，这也是为什么 CPES 能够发展腾飞的重要原因。或许也是因为如此，他的学生基本都进入了工业界，很少有留在学术圈的。当然，他的火爆脾气和 push 程度也和他的学术水平一样有名。于 2017 年宣布退休，但实际在科研一线，仍然带学生、开会。 
 
 ---
 
-[Dushan Boroyevic](https://cpes.vt.edu/people/faculty/89)
+[Dushan Boroyevic](https://cpes.vt.edu/people/faculty/89) (已退休)
 
 美国工程院院士，IEEE Fellow，1986 年 PhD@VT，Fred Lee的学生，曾任 IEEE Power Electronics Society (PELS)的主席，2007 Newell奖得主，研究领域主要是电网，新能源系统，新器件应用，电动汽车等。人非常 nice。于2024年8月宣布退休。 
-
 
 ---
 
 [Richard Zhang](https://cpes.vt.edu/people/faculty/5957)
 
-IEEE Fellow，1998 年 PhD@VT，Fred Lee的学生，清华大学校友。在GE工作22年，曾任GE Grid Integration Solutions的CTO并领导很多国际项目和国际团队，有非常丰富的工业界经验。2021年加入VT，人很nice。研究方向有MVDC/HVDC，FACTS，电动汽车快速充电桩，可再生能源，储能等等。
+IEEE Fellow，1998 年 PhD@VT，Fred Lee的学生，清华大学校友。在GE工作22年，曾任GE Grid Integration Solutions的CTO并领导很多国际项目和国际团队，有非常丰富的工业界经验。2021年加入VT，人很nice。研究方向有MVDC/HVDC，FACTS，电动汽车快速充电桩，可再生能源，储能等等。现为CPES主管。
+
+---
+
+[Ming Xue](https://cpes.vt.edu/about/faculty/9115)
+
+电源行业大牛，1997年PhD@浙大，博兰德创始人，创立博兰德之前是VT的大AP。2026年，Qiang Li跳槽，回来接手Power Management Consortium。研究领域为高频电源，磁集成，建模与控制等。
 
 ---
 
@@ -48,9 +53,9 @@ IEEE Fellow，越南人，1984 年 PhD@CIT，曾在GE工作，研究领域主要
 
 ---
 
-[Qiang Li](https://cpes.vt.edu/people/faculty/1703)
+[Qiang Li](https://cpes.vt.edu/people/faculty/1703) (已跳槽)
 
-Professor，2011 年 PhD@VT，Fred Lee 的学生，浙江大学校友，研究领域主要为高功率密度变换器，新器件应用，电力电子功率集成，磁性元件设计等，人很 nice，面试用中文。和Fred Lee 在一个组。 
+Professor，2011 年 PhD@VT，Fred Lee 的学生，浙江大学校友，研究领域主要为高功率密度变换器，新器件应用，电力电子功率集成，磁性元件设计等，人很 nice，面试用中文。和Fred Lee 在一个组。 2026年跳槽至港大.
 
 ---
 
@@ -73,7 +78,7 @@ Professor，伊朗人，2011 年 PhD@UofT，Iravani 的学生，曾在WSU 任教
 
 ---
 
-[Yuhao Zhang](https://cpes.vt.edu/people/faculty/3886)
+[Yuhao Zhang](https://cpes.vt.edu/people/faculty/3886) (已跳槽)
 
 小 AP，2017年 PhD@MIT，北京大学校友，于 2018年加入 VT。研究领域为 GaN器件本体。2024年跳槽至港大任正教授。
 
