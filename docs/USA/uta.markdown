@@ -10,7 +10,7 @@ permalink: /flying-brochure/uta
 
 ---
 
-[Ali Davoudi](https://www.uta.edu/academics/faculty/profile?user=davoudi)
+[Ali Davoudi](https://www.uta.edu/academics/faculty/profile?username=davoudi)
 
 Professor，伊朗人，2010 年 PhD@UIUC，Chapman 的学生，2017 年 Bass 奖得主。研究领域主要为微网，新能源系统等，近几年文章非常多。
 
@@ -22,18 +22,18 @@ Professor，伊朗人，2010 年 PhD@UIUC，Chapman 的学生，2017 年 Bass �
 
 ---
 
-[Yichen Zhang](https://www.uta.edu/academics/faculty/profile?user=yichen.zhang#About%20Me)
+[Yichen Zhang](https://www.uta.edu/academics/faculty/profile?username=zhangy6)
 
 小AP，2018 年 PhD@UTK，Tomsovic的学生，西交大校友，2022 年加入UTA，之前在Argonne国家实验室工作。研究领域主要为微网，新能源系统等，偏电力系统。
 
 ---
 
-[David Wetz](https://www.uta.edu/academics/faculty/profile?user=wetz#About%20Me)
+[David Wetz](https://www.uta.edu/academics/faculty/profile?username=wetz)
 
 2006 年 PhD@TTU。研究领域主要为脉冲电源。
 
 ---
 
-[Zachary Shaw](https://www.uta.edu/academics/faculty/profile?user=zachary.shaw)
+[Zachary Shaw](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/electrical/faculty-directory)
 
 大AP，研究领域主要也是脉冲电源。
