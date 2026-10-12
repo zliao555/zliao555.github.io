@@ -6,7 +6,7 @@ permalink: /flying-brochure/utd
 # University of Texas, Dallas
 
 综排不高
-1969 年正式成为公立大学。电力相关研究覆盖电力电子、集成电源、电机与驱动、能源系统、高压与绝缘等。
+1969 年正式成为公立大学，但是不折不扣的 PE强校，有 不少 做 PE 相关工作的 Faculty。电力相关研究覆盖电力电子、集成电源、电机与驱动、能源系统、高压与绝缘等。且 地处德州，就业有优势， 再者 UTD学校本身 近几年发展不错，是 申请 PE性价比比较高的去处。
 
 
 [Faculty of Power Electronics and Energy Systems](https://ece.utdallas.edu/people/faculty/#)
