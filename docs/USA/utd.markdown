@@ -6,7 +6,7 @@ permalink: /flying-brochure/utd
 # University of Texas, Dallas
 
 综排不高
-成立不到 50年）， 但是不折不扣的 PE强校 （没有 PS 有 不少 做 PE 相关工作的 Faculty 虽然老师以印度、伊朗人为主，但中国学生不少，且 地处德州，就业有优势， 再者 UTD学校本身 近几年发展不错，是 申请 PE性价比比较高的去处。 借用 Dr. Hoi Lee个人网站上的话： ：“Within 15-minute driving distance from the campus of UTD, there are many worldwide semiconductor IC companies focusing on Power IC business like Texas Instruments Inc., On Semiconductor Inc., Linear Technology Corp., Maxim Integrated Inc., Intersil Corp., Huawei Inc., Diodes Inc., etc. Many job opportunities and summer internships are offered to graduate students in Power IC area. In addition, Dallas/Fort Worth is the fourth largest metropolitan area in US and is often dubbed as ‘the Silicon Valley of the South’. ”
+1969 年正式成为公立大学。电力相关研究覆盖电力电子、集成电源、电机与驱动、能源系统、高压与绝缘等。
 
 
 [Faculty of Power Electronics and Energy Systems](https://ece.utdallas.edu/people/faculty/#)
@@ -37,7 +37,7 @@ permalink: /flying-brochure/utd
 ---
 [Mona Ghassemi](https://ece.utdallas.edu/people/tenure-system-faculty/ghassemi-mona/)
 
-女，大 AP，2012 年 PhD@Uof Tehran，伊朗土博，毕业后在加拿大工作，于 2022 年加入 UTD。研究领域主要为高压，绝缘技术。
+女，Professor，2012 年 PhD@Uof Tehran，伊朗土博，毕业后在加拿大工作，于 2022 年加入 UTD。研究领域主要为高压，绝缘技术。
 
 ---
 [Matthew Gardner](https://ece.utdallas.edu/people/tenure-system-faculty/gardner-matthew/)
