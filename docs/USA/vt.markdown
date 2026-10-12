@@ -29,7 +29,7 @@ IEEE Fellow，1998 年 PhD@VT，Fred Lee的学生，清华大学校友。在GE�
 
 ---
 
-[Ming Xue](https://cpes.vt.edu/about/faculty/9115)
+[Ming Xu](https://cpes.vt.edu/about/faculty/9115)
 
 电源行业大牛，1997年PhD@浙大，博兰德创始人，创立博兰德之前是VT的大AP。2026年，Qiang Li跳槽，回来接手Power Management Consortium。研究领域为高频电源，磁集成，建模与控制等。
 
