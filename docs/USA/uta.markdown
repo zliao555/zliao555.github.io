@@ -12,13 +12,13 @@ permalink: /flying-brochure/uta
 
 [Ali Davoudi](https://www.uta.edu/academics/faculty/profile?user=davoudi)
 
-伊朗人，2010 年 PhD@UIUC，Chapman 的学生，2017 年 Bass 奖得主。研究领域主要为微网，新能源系统等，近几年文章非常多。
+Professor，伊朗人，2010 年 PhD@UIUC，Chapman 的学生，2017 年 Bass 奖得主。研究领域主要为微网，新能源系统等，近几年文章非常多。
 
 ---
 
-[Liwei Zhou](https://www.uta.edu/academics/faculty/profile?user=liwei.zhou)
+[Liwei Zhou](https://www.rit.edu/engineeringtechnology/directory/lxziee-liwei-zhou)
 
-小AP，2023 年 PhD@Columbia，山东大学校友，2023 年加入UTA。研究领域主要为电力电子，控制，和网测变换器。网站打不开了，最新消息2026年跳槽到Rochester了。
+现任 Rochester Institute of Technology（RIT）小AP，2022 年 PhD@Columbia，山东大学校友，2023 年加入UTA。研究领域主要为电力电子、控制和并网变换器。
 
 ---
 
