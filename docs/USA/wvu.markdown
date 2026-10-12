@@ -4,18 +4,19 @@ title: West Virginia University (WVU)
 permalink: /flying-brochure/wvu
 ---
 # West Virginia University
-在 Power 方面拥有悠久传统，PS 和 PE 都有一定规模，有一个 Power 的研究中心 APERC：
-[Advanced Power & Electricity Research Center (APERC)](https://aperc.wvu.edu/) 2026年已搜不到该中心。
+在 Power 方面拥有悠久传统，PS 和 PE 都有相关研究。历史上设有
+[Advanced Power & Electricity Research Center (APERC)](https://www.energy.gov/sites/default/files/2017/08/f36/USDOE_WVSC_Project_Final_Report_5-30-2014_R1.pdf)。
+当前电力相关研究可参见 [Power and Energy Systems](https://lcsee.statler.wvu.edu/research)。
 
 ---
 
 [Muhammad A. Choudhry](https://directory.statler.wvu.edu/faculty-staff-directory/muhammad-choudhry)
 
-巴基斯坦人，1981 年 PhD@Purdue，研究领域主要为分布式系统，微网，HVDC 等，偏 PS，和 Feliachi 有不少合作文章，基本都是会议。
+Professor，生于巴基斯坦，1981 年 PhD@Purdue，研究领域主要为电力系统控制、直流输电、稳定性和电力电子。
 
 ---
 
-[Ali Feliachi](https://www.statler.wvu.edu/faculty-staff/faculty/ali-feliachi)
+[Ali Feliachi](https://directory.statler.wvu.edu/faculty-staff-directory/ali-feliachi)
 
-阿尔及利亚人，1983 年 PhD@Gatech，现任 APERC 的 Director，
-研究领域主要为分布式系统，微网等，偏 PS，近几年文章以会议为主。学校官网查无此人。
+Professor Emeritus，1983 年 PhD@Gatech，曾任 APERC 的 Director。
+研究领域主要为电力系统、大规模系统和控制。
