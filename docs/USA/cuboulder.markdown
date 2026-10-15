@@ -26,6 +26,16 @@ IEEE Fellow，1989 年 PhD@CIT，Cuk 的学生，主要研究领域为高功率�
 
 [Taylor Barton](http://ecee.colorado.edu/~taba7194/people.html)
 
-女，小 AP，2012 年 PhD@MIT，Perreault 的学生，曾在 UTD 任教，2016 年加入 CU。主要研究功率放大器。 
+女，大 AP，2012 年 PhD@MIT，Perreault 的学生，曾在 UTD 任教，2016 年加入 CU。主要研究功率放大器。 
 
+---
 
+[Luca Corradini](https://www.colorado.edu/ecee/luca-corradini)
+
+大 AP，意大利人，2008 年 PhD@University of Padova，曾在 University of Padova 任教，2021 年加入 CU。主要研究电力电子变换器和数字控制。
+
+---
+
+[Logan Horowitz](https://www.colorado.edu/ecee/logan-horowitz)
+
+小 AP，2025 年 PhD@UC Berkeley，Pilawa的学生。主要研究开关电容变换器。
