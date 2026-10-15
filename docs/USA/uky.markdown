@@ -16,13 +16,6 @@ IEEE Fellow，1987 年 PhD@University Politehnica of Bucharest，
 
 ---
 
-[Jiangbiao He](https://www.engr.uky.edu/directory/he-jiangbiao)
-小 AP，2015 年 PhD@Marquette，Demerdash 的学生，西安交通
-大学校友，曾在 GE GRC 工作，于 2018 年加入 UKY。研究领域主要为电机驱
-动，宽禁带半导体应用等。
-
----
-
 [Aaron M. Cramer](https://www.engr.uky.edu/directory/cramer-aaron)
 大 AP，2007 年 PhD@Purdue，Sudhoff 的学生，研究领域主
 要为电机控制，光伏，分布式系统等，近几年文章不是很多。
