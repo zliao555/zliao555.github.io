@@ -5,6 +5,14 @@ permalink: /flying-brochure/psu
 ---
 # Pennsylvania State University
 
+[Yunting Liu](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=ypl5778)
+
+小 AP，2019年 PhD@MSU Peng的学生，曾在UTK做博后
+
+于 2022年加入 PSU。研究领域主要为变换器设计，宽禁带半导体应用等。
+
+---
+
 [Nilanjan Ray Chaudhuri](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=nuc88)
 
 大 AP 印度人 2011年 PhD@ Imperial College London
