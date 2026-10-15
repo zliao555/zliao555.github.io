@@ -25,3 +25,9 @@ Purdue。主要研究电机，风力发电。
 ---
 [Raymond A. Decarlo](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3219) IEEE Fellow 1976年 PhD@TTU 主要研究领域不是 PE
 但也做一些电动汽车 系统建模相关工作 。
+
+
+---
+
+[Xiaonan Lu](https://polytechnic.purdue.edu/profile/lu998)
+大 AP， 2013年 PhD@清华，曾在 Argonne实验室工作，2018年加入 Temple，之后跳槽至Purdue，研究领域主要为微网，逆变器控制等。
