@@ -19,7 +19,7 @@ permalink: /flying-brochure/uconn
 
 ---
 
-[Sung-Yeul Park](https://www.ee.uconn.edu/sung-yeul-park/)
+[Sung-Yeul Park](https://www.ee.uconn.edu/sung-yeul-park/)(已去世)
 
 大 AP。韩国人。2009年 PhD@VT Jason Lai的学生
 
