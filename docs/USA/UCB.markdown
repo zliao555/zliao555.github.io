@@ -32,11 +32,11 @@ Professor，瑞典人，IEEE Fellow。2012年 PhD@MIT Perreault的学
 
 目前的主要的研究方向：
 * Hybrid switch-capacitor dc-dc拓扑，优化和控制，以及data center power system里的应用，比如48V dc-bus step-down。
-* 
+  
 * Flying-capacitor multilevel converter的拓扑，优化，控制，可靠性等，应用于电气化交通比如NASA的电动飞机项目。
-* 
+  
 * Single-phase active buffer。减小single-phase ac/dc dc/ac所需的buffer电容大小。现在有数据中心800Vdc的应用。
-* 
+  
 * Power management integrated circuits，低压全集成dc-dc，gate driver，控制器等。
 
 ---
