@@ -23,15 +23,20 @@ IEEE Fellow, 1989年 PhD@MIT，研究领域主要为高功率密度
 Professor，瑞典人，IEEE Fellow。2012年 PhD@MIT Perreault的学
 生，2014年Bass奖得主，曾在 UIUC任教，于 2018年加入UCB。 研究领域主
 要为通信电源，高功率密度变换器，超高频电力电子，光伏等。其名下实验室：
-[Pilawa Research Group](https://pilawa-group.berkeley.edu/). 2015年参加google little box challenge，运用flying capacitor multilevel, 和series-stacked buffer的架构做出了功率密度很高的2 kw PV inverter。由此确定出之后的研究方向。
+[Pilawa Research Group](https://pilawa-group.berkeley.edu/). 
+
+2015年参加google little box challenge，运用flying capacitor multilevel, 和series-stacked buffer的架构做出了功率密度很高的2 kw PV inverter。由此确定出之后的研究方向。
 
 2023年建立伯克利的电力能源中心Berkeley Power and Energy Center (BPEC)。
 [BPEC website](https://bpec.berkeley.edu/)
 
 目前的主要的研究方向：
 * Hybrid switch-capacitor dc-dc拓扑，优化和控制，以及data center power system里的应用，比如48V dc-bus step-down。
+* 
 * Flying-capacitor multilevel converter的拓扑，优化，控制，可靠性等，应用于电气化交通比如NASA的电动飞机项目。
+* 
 * Single-phase active buffer。减小single-phase ac/dc dc/ac所需的buffer电容大小。现在有数据中心800Vdc的应用。
+* 
 * Power management integrated circuits，低压全集成dc-dc，gate driver，控制器等。
 
 ---
