@@ -31,6 +31,7 @@ Professor，瑞典人，IEEE Fellow。2012年 PhD@MIT Perreault的学
 [BPEC website](https://bpec.berkeley.edu/)
 
 目前的主要的研究方向：
+
 * Hybrid switch-capacitor dc-dc拓扑，优化和控制，以及data center power system里的应用，比如48V dc-bus step-down。
   
 * Flying-capacitor multilevel converter的拓扑，优化，控制，可靠性等，应用于电气化交通比如NASA的电动飞机项目。
@@ -43,7 +44,7 @@ Professor，瑞典人，IEEE Fellow。2012年 PhD@MIT Perreault的学
 
 [Jessica Boles](https://www2.eecs.berkeley.edu/Faculty/Homepages/boles.html)
 
-小AP，2022年PhD@MIT。Perreault的学生。主攻piezoelectric-based power electronics。
+小AP，2022年PhD@MIT。Perreault的学生。主攻piezoelectric-based power electronics。MEMS、Nano fabrication和电力电子背景的学生都招收。人非常nice，能力很强。
 
 实验室主页：
 [Boles Lab](https://www.boleslab.org/) 
@@ -52,14 +53,14 @@ Professor，瑞典人，IEEE Fellow。2012年 PhD@MIT Perreault的学
 
 [Scott Moura](https://ce.berkeley.edu/people/faculty/moura)
 
-小 AP。 2011年 PhD@Umich，隶属于 CEE而不是 EE，研究领域
+Professor。 2011年 PhD@Umich，隶属于 CEE而不是 EE，研究领域
 主要在系统优化和控制方面。比如电池能量管理，电动汽车充电策略等，和PE沾点关系。其名下实验室: [Energy Control & Applications Lab (ECAL)](https://ecal.berkeley.edu/index.html)。
 
 ---
 
 [Duncan Callaway](https://erg.berkeley.edu/people/callaway-duncan/)
 
-大AP。phd@Cornell。 Duncan属于伯利克的 [energy & resources group](https://erg.berkeley.edu/)。主要研究方向是power system，但也研究介于power system和power electronics中间的领域，比如PV inverter并网的控制与优化等。
+Professor。phd@Cornell。 Duncan属于伯利克的 [energy & resources group](https://erg.berkeley.edu/)。主要研究方向是power system，但也研究介于power system和power electronics中间的领域，比如PV inverter并网的控制与优化等。
 
 ---
 
