@@ -48,4 +48,4 @@ Pitt也是 Power传统强校。但是曾经沉寂了一段时间。近几年重�
 ---
 
 [Yuan Li](https://www.engineering.pitt.edu/people/faculty/yuann-li/)：女，小 AP 2007年 PhD@武汉大学，曾在四川大学任教，于 2024年
-和 Fang Z. Peng一同加入 Fitt。研究领域主要为逆变器，光伏等。
+和 Fang Z. Peng一同加入 Pitt。研究领域主要为逆变器，光伏等。
