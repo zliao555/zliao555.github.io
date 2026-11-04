@@ -60,7 +60,7 @@ Professor。 2011年 PhD@Umich，隶属于 CEE而不是 EE，研究领域
 
 [Duncan Callaway](https://erg.berkeley.edu/people/callaway-duncan/)
 
-Professor。phd@Cornell。 Duncan属于伯利克的 [energy & resources group](https://erg.berkeley.edu/)。主要研究方向是power system，但也研究介于power system和power electronics中间的领域，比如PV inverter并网的控制与优化等。
+Professor。phd@Cornell。 Duncan属于Berkeley的 [energy & resources group](https://erg.berkeley.edu/)。主要研究方向是power system，但也研究介于power system和power electronics中间的领域，比如PV inverter并网的控制与优化等。
 
 ---
 
