@@ -23,19 +23,22 @@ IEEE Fellow，1990 年 PhD@USC，西安交通大学校友，曾在 GE 工作十�
 
 IEEE Fellow，1999 年 PhD@Gatech，Habetler 的学生，CURENT的联合创始人。主要研究领域为电网，新能源系统，HVDC，新器件应用等。喜欢招女生，对学生管得比较松，学生有部分由其他老师带。 
 
----
-
-[Daniel Costinett](https://potenntial.eecs.utk.edu/People.php?name=DanielCostinett)
-大 AP，2013 年 PhD@CU，Maksimovic 的学生，主要研究领域为无线电能传输，高频电力电子，变换器建模及数字控制等。学术理论水平很扎实。 
 
 ---
 
 [Kevin (Hua) Bai](https://www.eecs.utk.edu/people/hua-kevin-bai/)
 
-大 AP，2007 年 PhD@清华，曾在 Kettering University，UM-Dearborn 任教，于 2018 年加入 UTK。研究领域主要为电动汽车，电机驱动等。
+2007 年 PhD@清华，曾在 Kettering University，UM-Dearborn 任教，于 2018 年加入 UTK。研究领域主要为电动汽车，电机驱动等。
 
 ---
 
-[Helen (Han) Cui](https://www.eecs.utk.edu/people/han-helen-cui/)
+[Jiangbiao He](https://eecs.utk.edu/people/jiangbiao-he/)
+大 AP，2015 年 PhD@Marquette，Demerdash 的学生，西安交通
+大学校友，曾在 GE GRC 工作，之后在 UKY 任教，于2024年跳槽至 UTK。研究领域主要为电机驱
+动，宽禁带半导体应用等。
+
+---
+
+[Helen (Han) Cui](https://www.eecs.utk.edu/people/han-helen-cui/) （已跳槽回国）
 
 女，小 AP，2017 年 PhD@VT，Ngo 的学生，天津大学校友，曾在 UCLA 做博后，于 2019 年加入 UTK。研究领域主要为磁性元件，封装等。
