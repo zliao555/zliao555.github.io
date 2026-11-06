@@ -38,4 +38,6 @@ IEEE Fellow，1989 年 PhD@CIT，Cuk 的学生，主要研究领域为高功率�
 
 [Logan Horowitz](https://www.colorado.edu/ecee/logan-horowitz)
 
-小 AP，2025 年 PhD@UC Berkeley，Pilawa的学生。主要研究开关电容变换器。
+小 AP，2025 年 PhD@UC Berkeley，Pilawa的学生。主要研究高性能高密度飞跨电容变换器、电气自动化、散热冷却系统等。
+
+实验室网站： [Horowitz Group](https://www.colorado.edu/faculty/horowitz-group/)
