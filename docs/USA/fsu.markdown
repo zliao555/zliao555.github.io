@@ -5,8 +5,7 @@ permalink: /flying-brochure/fsu
 ---
 # Florida State University
 
-有个
-Power实验室，规模不小， Funding主要和海军有关 据说不差钱 。
+有个Power实验室，规模不小， Funding主要和海军有关 据说不差钱 。
 
 [Center for Advanced Power Systems (CAPS)](https://www.caps.fsu.edu/)
 

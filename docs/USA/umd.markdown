@@ -6,7 +6,7 @@ permalink: /flying-brochure/umd
 # University of Maryland, College Park
 
 ---
-[Xin Zan]
+[Xin Zan](https://ece.umd.edu/clark/faculty/1843/Xin-Zan)
 2023年8月加入马里兰大学(University of Maryland, College Park)。
 
 2016年清华大学本科毕业，2022年密西根大学博士毕业，是Avestruz的学生。

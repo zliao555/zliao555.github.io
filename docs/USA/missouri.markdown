@@ -7,8 +7,6 @@ permalink: /flying-brochure/missouri
 
 
 
-[Randy D. Curry](https://engineering.missouri.edu/faculty/randy-curry/)
+[Qingyun Huang](https://engineering.missouri.edu/faculty/qingyun-huang/)
 
-1992 年 PhD@St. Andrews，曾在工业界工作十一年，主要研究
-脉冲电源，其名下实验室：[Center for Physical and Power Electronics](http://cppe1.missouri.edu/index.html)，研究的东西
-可能和军工有关，文章不是很多，没有中国学生。
+小AP，PhD@UT Austin，Alex Huang的学生。研究方向为高频电力电子变换器，宽禁带半导体应用。

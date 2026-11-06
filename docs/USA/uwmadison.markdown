@@ -23,16 +23,33 @@ permalink: /flying-brochure/uwmadison
 
 [Bulent Sarlioglu](https://directory.engr.wisc.edu/ece/Faculty/Sarlioglu_Bulent/)
 
-大 AP，土耳其人，1999 年 PhD@UW，Lipo 的学生，曾在Honeywell工作过，研究领域主要为高速电机及集成电机驱动，电动汽车，新器件应用等。 基本所有学生都是自费一年后拿到offer。
+土耳其人，1999 年 PhD@UW，Lipo 的学生，曾在Honeywell工作过，研究领域主要为高速电机及集成电机驱动，电动汽车，新器件应用等。 基本所有学生都是自费一年后拿到offer。
 
 ---
 
 [Daniel C. Ludois](https://ludois.wempec.wisc.edu/biography/)
 
-大 AP，2011 年 PhD@UW，Venkataramanan 的学生，研究领域主要为无线电能传输，电动汽车，电机控制等。自己有一个创业公司，做电容式电机 （capacitive motor）。 2020年开始有部分学生第一年给RA。
+2011 年 PhD@UW，Venkataramanan 的学生，研究领域主要为无线电能传输，电动汽车，电机控制等。自己有一个创业公司，做电容式电机 （capacitive motor）。 2020年开始有部分学生第一年给RA。
+
+---
+
+[Daniel Costinett](https://engineering.wisc.edu/directory/profile/daniel-costinett/)
+2013 年 PhD@CU，Maksimovic 的学生，曾在UTK任教，于2026年加入UW，主要研究领域为无线电能传输，高频电力电子，变换器建模及数字控制等。学术理论水平很扎实。 
 
 ---
 
 [Eric L. Severson](https://directory.engr.wisc.edu/ece/Faculty/Severson_Eric/)
 
 小 AP，2015 年 PhD@UMN，Mohan 的学生，擅长电机设计，研究领域主要为磁性轴承，磁悬浮电机，高速电机等。 招的学生一般第一年即给RA。
+
+---
+
+[Mahima Gupta](https://engineering.wisc.edu/directory/profile/mahima-gupta/)
+
+小 AP，印度人，2019 年 PhD@UW，研究领域主要为电力电子变换及控制。
+
+---
+
+[Jinia Roy](https://engineering.wisc.edu/directory/profile/jinia-roy/)
+
+小 AP，印度人，2017 年 PhD@ASU，研究领域主要为脉冲电源。
