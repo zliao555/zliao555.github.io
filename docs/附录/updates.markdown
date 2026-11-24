@@ -5,6 +5,22 @@ permalink: /flying-brochure/updates
 ---
 
 
+## 2026 更新
+
+**跳槽**
+
+[Josep Pou](https://zliao555.github.io/flying-brochure/cityu) Nanyang Tech to HK City U（2024）
+
+[Ron Hui](https://zliao555.github.io/flying-brochure/cityu) Nanyang Tech to HK City U
+
+[S.C. Tan](https://zliao555.github.io/flying-brochure/cityu) HKU to HK City U
+
+**港城大页面更新**
+
+[City University of Hong Kong](https://zliao555.github.io/flying-brochure/cityu) 补充 Henry Shu-Hung Chung、C.K. Michael Tse、Zhaoyang Dong、Chunhua Liu、Kerui Li、Yue Zhu 等老师信息
+
+---
+
 ## 2023 更新
 
 **新老师**
