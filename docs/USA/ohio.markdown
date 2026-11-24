@@ -13,12 +13,6 @@ OSU 的 Power，无论是 PS 还是 PE，近几年发展都很不错，且学校
 
 ---
 
-[Longya Xu](http://www2.ece.ohio-state.edu/~longya/group.html)
-
-IEEE Fellow，1990 年 PhD@UW，湖南大学校友，主要研究电机，其名下实验室：[Laboratory for Power Electronics & Electrical Machines](https://peem.osu.edu/)，电机领域权威，快退休了。
-
----
-
 [Jin Wang](https://hvpe.osu.edu/people/wang.1248)
 
 2005 年 PhD@MSU，Fang Z. Peng 的学生，西安交通大学、武汉大学校友，曾在 Ford 工作，2007 年加入 OSU，2011 年 Bass 奖得主。主要研究领域为 HVDC，微网等，其名下实验室：[High Voltage and Power Electronics Laboratory](https://hvpe.osu.edu/)，近几年很活跃，实验室发展迅猛，Funding 多，文章非常多。 
@@ -33,4 +27,16 @@ IEEE Fellow，1990 年 PhD@UW，湖南大学校友，主要研究电机，其名
 
 [Mahesh Illindala](https://ece.osu.edu/news/2017/10/ece-faculty-spotlight-mahesh-illindala)
 
-大 AP，印度人，2005 年 PhD@UW，Venkataramanan 的学生，研究领域主要为微网，分布式系统等，略偏 PS。 
+大 AP，印度人，2005 年 PhD@UW，Venkataramanan 的学生，研究领域主要为微网，分布式系统等，略偏 PS。
+
+---
+
+[Daniel Zhou](https://ece.osu.edu/news/2026/09/ece-welcomes-assistant-professor-daniel-zhou)
+
+小 AP，PhD@Princeton，Minjie Chen 的学生，将于2027年入职，研究领域主要为高频电力电子变换器。
+
+---
+
+[Longya Xu](http://www2.ece.ohio-state.edu/~longya/group.html) （已退休）
+
+IEEE Fellow，1990 年 PhD@UW，湖南大学校友，主要研究电机，其名下实验室：[Laboratory for Power Electronics & Electrical Machines](https://peem.osu.edu/)，电机领域权威。
