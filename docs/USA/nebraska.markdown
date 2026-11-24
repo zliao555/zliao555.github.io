@@ -11,26 +11,26 @@ UNL做的最多的是风电，但是Wei Qiao的实验室几乎涉及新能源的
 
 ---
 
-[Jerry L. Hudgins](https://engineering.unl.edu/ece/faculty/jerry-l-hudgins/)
+[Jerry L. Hudgins](https://engineering.unl.edu/ece/person/jerry-l-hudgins/)
 
 IEEE Fellow，1985年PhD@TTU，曾任IEEE Power Electronics Society (PELS)的主席，研究领域主要为电力电子器件。
 
 ---
 
-[Wei Qiao](https://engineering.unl.edu/ece/faculty/wei-qiao/)
+[Wei Qiao](https://engineering.unl.edu/ece/person/wei-qiao/)
 
 2008年 PhD@Gatech Harley的学生，浙江大学校友。研究领域很广泛，包括风电，智能电网，电池能量管理等，做的东西很fancy，其名下实验室
 [Power and Energy Systems Laboratory](https://pesl.unl.edu/) 有近20个PhD学生，近几年文章产出量很高，网站显示正在招人 。
 
 ---
 
-[Livan Qu](https://engineering.unl.edu/ece/faculty/liyan-qu/)
+[Livan Qu](https://engineering.unl.edu/ece/person/liyan-qu/)
 
 女，大AP，2007年PhD@UIUC。Chapman的学生，浙江大学校友。研究领域主要为智能电网，风电，新型变压器等，目前和 Wei Qiao在 一起 。
 
 ---
 
-[Jun Wang](https://cpes.vt.edu/people/faculty/1227)
+[Jun Wang](https://engineering.unl.edu/person/jun-wang/)
 
-小AP, 由VT research AP转到Nebraska. 研究方向 SiC module的设计和在medium power逆变器里的应用 
+小AP, 2018PhD@VT，Dushan的学生，由VT research AP转到Nebraska. 研究方向 SiC module的设计和在medium power逆变器里的应用 
 
