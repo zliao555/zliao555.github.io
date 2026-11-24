@@ -11,3 +11,6 @@ IEEE Fellow，埃及人，1983 年 PhD@VT，研究领域主要为微网，电磁
 
 ---
 
+[Markondeya Raj Pulugurtha](https://cec.fiu.edu/about/directory/profiles/markondeya-raj-pulugurtha.html)
+
+大AP，印度人，1999 年 PhD@Rutgers，研究领域主要为功率模块集成。
